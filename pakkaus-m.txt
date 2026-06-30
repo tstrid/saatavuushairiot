@@ -1,0 +1,18 @@
+PAKKAUSNRO;VNRNRO;PAKKAUSKOKO;KERROIN;KOKO;YKSIKKO;LAITE;ASTIATUN;KAUPPAANTULOPVM;KAUPASTAPOISPVM;RESEPTISTATUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;LAAKEMUOTOTUN;HALTIJA;HUM;VET;RINNAKKAISTUONTI;VAIKAINELKM;ATCKOODI;ATCTUN;DDD;DDDYKSIKKO;HUUME;PSYKOLUOKITUS;LIIKENNEVAARA;EHTOKOODI;MYYNTILUPANRO;EUMYYNTILUPANRO;PAATOSPVM;PAATTYMISPVM;TILANIMI;TILAKOODI;MUUTOS;EDELLINEN_VNRNRO;SUBSTITUUTIORYHMA;KAUPAN;EDELLINEN_LAAKENIMI
+160484;;1 + solv.;;;;;;;;R;LENTOCILIN S 1200;1 200 000 UI / 4 ml;injektiokuiva-aine ja liuotin, suspensiota varten;465;Laboratorios Atral S.A.;1;0;0;2;J01CE08;2362;3.6;g;;;0;;32002;;2013-12-18;2026-08-31;M‰‰r‰aikainen erityislupa;11;;;;0;
+166618;;8 g;1;8.00;g;;;;;R;MONURIL;3000 mg;rakeet oraaliliuosta varten;215;Zambon S.p.A.;1;0;0;1;J01XX01;9905;3;g;;;0;;32874;;2020-05-01;2026-08-31;M‰‰r‰aikainen erityislupa;11;;;;0;MONURIL "ZAMBON"
+169407;;4 ml;1;4.00;ml;;;;;R;TARDOCILLIN 1200;1200 000 U / 4 ml;injektioneste, suspensio;245;Infectopharm Arzneimittel und Consilium GmbH;1;0;0;2;J01CE08;2362;3.6;g;;;0;;33357;;2015-04-21;2026-08-31;M‰‰r‰aikainen erityislupa;11;;;;0;
+188137;;80 ml;1;80.00;ml;;;;;R;FURANTOINA;10 mg/ml;oraalisuspensio;211;Laboratorios ERN, S.A.;1;0;0;1;J01XE01;2168;0.2;g;;;0;;36656;;2019-01-01;2027-08-31;M‰‰r‰aikainen erityislupa;11;;;;0;
+197950;;1 x 3 ml;1;3.00;ml;;;;;R;WARTICON;5 mg/ml;liuos iholle;206;Delpharm Bladel B.V.;1;0;0;1;D06BB04;1667;;;;;0;;;;2020-11-16;2026-08-31;M‰‰r‰aikainen erityislupa;11;;;;0;
+198779;;100 ml;1;100.00;ml;;;;;R;FLAGYL;200 mg/5 ml;oraalisuspensio;211;Unither Liquid Manufacturing;1;0;0;1;P01AB01;3771;2;g;;;0;;;;2021-02-03;2026-08-31;M‰‰r‰aikainen erityislupa;11;;;;0;
+201236;;6 x 4 ml;6;4.00;ml;;;;;R;TARDOCILLIN 1200;1200 000 U / 4 ml;injektioneste, suspensio;245;Infectopharm Arzneimittel und Consilium GmbH;1;0;0;2;J01CE08;2362;3.6;g;;;0;;33357;;2015-04-21;2026-08-31;M‰‰r‰aikainen erityislupa;11;;;;0;
+212685;;30 kpl;1;30.00;kpl;;;;;R;NIFEDIPINE VIATRIS L.P.;30 mg;depottabletti;16;Laboratoires Macors;1;0;0;1;C08CA05;1399;30;mg;;;0;;;;2023-08-23;2026-08-31;M‰‰r‰aikainen erityislupa;11;;;;0;
+212686;;90 kpl;1;90.00;kpl;;;;;R;NIFEDIPINE VIATRIS L.P.;30 mg;depottabletti;16;Laboratoires Macors;1;0;0;1;C08CA05;1399;30;mg;;;0;;;;2023-08-23;2026-08-31;M‰‰r‰aikainen erityislupa;11;;;;0;
+216691;;3.5 ml;1;3.50;ml;;;;;R;CONDYLINE;0.5 %;liuos iholle;206;Delpharm Bladel B.V.;1;0;0;1;D06BB04;1667;;;;;0;;;;2024-03-28;2026-08-31;M‰‰r‰aikainen erityislupa;11;;;;0;
+216692;;3 ml;1;3.00;ml;;;;;R;WARTEC;5 mg/ml;liuos iholle;206;Stiefel Laboratories (Ireland) Ltd.;1;0;0;1;D06BB04;1667;;;;;0;;;;2024-03-28;2026-08-31;M‰‰r‰aikainen erityislupa;11;;;;0;
+227022;;14 kpl;1;14.00;kpl;;;;;R;NIFEDIPINA EG;30 mg;depottabletti;16;Fine Foods & Pharmaceuticals N.T.M. S.p.A;1;0;0;1;C08CA05;1399;30;mg;;;0;;;;2026-01-05;2026-08-31;M‰‰r‰aikainen erityislupa;11;;;;0;
+228597;;30;1;30.00;kpl;;;;;R;ISOGALEN;20 mg;kapseli, pehme‰;251;Pharmathen S.A.;1;0;0;1;D10BA01;1876;30;mg;;;0;E183;;;2026-04-16;2026-08-31;M‰‰r‰aikainen erityislupa;11;;;;0;
+228598;;50;1;50.00;kpl;;;;;R;ISOGALEN;20 mg;kapseli, pehme‰;251;Pharmathen S.A.;1;0;0;1;D10BA01;1876;30;mg;;;0;E183;;;2026-04-16;2026-08-31;M‰‰r‰aikainen erityislupa;11;;;;0;
+228599;;60;1;60.00;kpl;;;;;R;ISOGALEN;20 mg;kapseli, pehme‰;251;Pharmathen S.A.;1;0;0;1;D10BA01;1876;30;mg;;;0;E183;;;2026-04-16;2026-08-31;M‰‰r‰aikainen erityislupa;11;;;;0;
+228600;;100;1;100.00;kpl;;;;;R;ISOGALEN;20 mg;kapseli, pehme‰;251;Pharmathen S.A.;1;0;0;1;D10BA01;1876;30;mg;;;0;E183;;;2026-04-16;2026-08-31;M‰‰r‰aikainen erityislupa;11;;;;0;
+228601;;30;1;30.00;kpl;;;;;R;CURACN…;5 mg;kapseli, pehme‰;251;Catalent France Beinheim;1;0;0;1;D10BA01;1876;30;mg;;;0;E183;;;2026-04-16;2026-08-31;M‰‰r‰aikainen erityislupa;11;;;;0;
