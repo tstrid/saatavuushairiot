@@ -119,7 +119,7 @@ def parse_registry(source: Path) -> tuple[str, list[Package], dict[str, Product]
                     strength=clean(element.findtext("Vahvuus")),
                     dosage_form=attribute_value(element.find("Laakemuoto")),
                     atc_code=attribute_value(element.find("ATC-koodi")),
-                    substitution_group=clean(element.findtext("Substituutioryhma")),
+                    substitution_group=attribute_value(element.find("Substituutioryhma")),
                     human=clean(element.findtext("HUM")) or "0",
                     veterinary=clean(element.findtext("VET")) or "0",
                 )
@@ -191,6 +191,15 @@ def validate(rows: list[list[str]]) -> dict[str, int]:
     if not alias_rows:
         raise ValueError("No previous-VNR aliases were generated")
 
+    current_rows_with_substitution_group = [row for row in current_rows if row[10]]
+    substitution_groups = {row[10] for row in current_rows_with_substitution_group}
+    if len(current_rows_with_substitution_group) < 1_000 or len(substitution_groups) < 100:
+        raise ValueError(
+            "Substitution-group data is unexpectedly sparse: "
+            f"{len(current_rows_with_substitution_group)} records in "
+            f"{len(substitution_groups)} groups"
+        )
+
     empty_names = sum(not row[3] for row in rows)
     if empty_names / len(rows) > 0.20:
         raise ValueError(f"Too many empty medicine names: {empty_names}/{len(rows)}")
@@ -209,6 +218,8 @@ def validate(rows: list[list[str]]) -> dict[str, int]:
         "aliasRecordCount": len(alias_rows),
         "humanRecordCount": sum(row[11] == "1" for row in current_rows),
         "veterinaryRecordCount": sum(row[12] == "1" for row in current_rows),
+        "currentRecordsWithSubstitutionGroup": len(current_rows_with_substitution_group),
+        "substitutionGroupCount": len(substitution_groups),
         "emptyNameCount": empty_names,
     }
 

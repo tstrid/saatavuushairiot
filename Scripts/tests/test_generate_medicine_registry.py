@@ -30,7 +30,8 @@ class GeneratorTests(unittest.TestCase):
             <Pakkauskokoteksti>20 ml</Pakkauskokoteksti><Kaupanolo><Kaupastapoistumispaiva>2026-10-04</Kaupastapoistumispaiva></Kaupanolo>
           </Pakkaus>
           <Laakevalmiste id="REL1"><Kauppanimi>Vetmed</Kauppanimi><Vahvuus>2 mg/ml</Vahvuus>
-            <Laakemuoto value="injektioneste"/><HUM>0</HUM><VET>1</VET>
+            <Laakemuoto value="injektioneste"/><Substituutioryhma id="1943" value="1943"/>
+            <HUM>0</HUM><VET>1</VET>
           </Laakevalmiste>
         </Perusrekisteri>"""
         with tempfile.TemporaryDirectory() as directory:
@@ -43,6 +44,7 @@ class GeneratorTests(unittest.TestCase):
         self.assertEqual(rows[0][1], "123456")
         self.assertEqual(rows[0][12], "1")
         self.assertEqual(rows[0][13], "0")
+        self.assertEqual(rows[0][10], "1943")
         self.assertEqual(rows[1][0], "123456")
         self.assertEqual(rows[1][13], "1")
         self.assertEqual(len(rows), 2)
