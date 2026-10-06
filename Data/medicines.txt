@@ -538,6 +538,7 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 013855;161871;212333;Bumofarm;20 mg/ml;injektioneste, liuos;10 x 1 ml;ml;;butyyliskopolamiini;1631;1;0;0
 013866;013866;37354;Prilium;75 mg;jauhe oraaliliuosta varten;30 ml;kpl;Mittaruisku;Imidapriili;;0;1;1
 013943;013943;37355;Prilium;150 mg;jauhe oraaliliuosta varten;30 ml (0.880 g);kpl;Mittaruisku;Imidapriili;;0;1;1
+013964;584931;41082;Panacod;;poretabletti;60;kpl;;kodeiini ja parasetamoli;1351;1;0;0
 014026;014026;37352;Rogaine;50 mg/ml;liuos iholle;3 x 60 ml;ml;;minoksidiili;3055;1;0;1
 014081;014081;33112;Keppra;100 mg/ml;oraaliliuos;300 ml;ml;Mittaruisku;levetirasetaami;1425;1;0;1
 014094;014094;27888;Forsteo;20 mikrog / 80 mikrol;injektioneste, liuos, esitäytetty kynä;2.4 ml;ml;;teriparatidi;2735;1;0;1
@@ -1759,6 +1760,7 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 049341;049341;183802;Amlodipine/Valsartan/Hydrochlorothiazide Krka;10 mg / 160 mg / 12.5 mg;tabletti, kalvopäällysteinen;100;kpl;;valsartaani, amlodipiini ja hydroklooritiatsidi;2086;1;0;1
 049367;049367;215950;Otulfi;130 mg;infuusiokonsentraatti, liuosta varten;130 mg;kpl;;ustekinumabi;2965;1;0;1
 049371;049371;196451;CircoMax;;injektioneste, emulsio;100 ml (50 annosta);ml;;Porcine circovirus vaccine;;0;1;1
+049426;049426;222436;Ojemda;100 mg;tabletti, kalvopäällysteinen;24;kpl;;tovorafenibi;;1;0;1
 049478;010529;9308;Optison;;injektioneste, dispersio;5 x 3 ml;ml;;ihmisen albumiinin mikropartikkelit;;1;0;0
 049523;049523;156951;Givix vet;264 mg;purutabletti;12;kpl;;Klindamysiini;;0;1;1
 049533;124870;76308;Duotrav;40 mikrog / 5 mg;silmätipat, liuos;3 x 2.5 ml;ml;;timololi, yhdistelmävalmisteet;1355;1;0;0
@@ -1914,6 +1916,7 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 054755;054755;218654;Varenicline Glenmark;0.5 mg + 1 mg;tabletti, kalvopäällysteinen;11 + 42;kpl;;varenikliini;1935;1;0;1
 054761;054761;170519;Bertolix;3 mg/ml;sumute suuonteloon, liuos;15 ml;ml;;bentsydamiini;;1;0;1
 054896;054896;78467;Rectogesic;4 mg/g;rektaalivoide;30 g;g;;glyseryylitrinitraatti;2433;1;0;1
+054907;054907;148437;Ixiaro;;injektioneste, suspensio;0.5 ml;annos;;inaktivoitu Japanin aivotulehdus -rokote (koko virus);1337;1;0;1
 054950;054950;155823;Xigduo;5 mg / 850 mg;tabletti, kalvopäällysteinen;56;kpl;;metformiini ja dapagliflotsiini;1668;1;0;1
 054974;054974;145134;Eklira Genuair;322 mikrog;inhalaatiojauhe;60 annosta;annosta;Inhalaatiolaite;aklidiniumbromidi;2699;1;0;1
 055043;055043;35772;Mirtazapin Hexal;15 mg;tabletti, kalvopäällysteinen;100;kpl;;mirtatsapiini;0544;1;0;1
@@ -2825,6 +2828,7 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 081805;081805;217817;Amlodipine ratiopharm;10 mg;tabletti;30;kpl;;amlodipiini;0566;1;0;1
 081845;081845;82692;Sertralin ratiopharm;50 mg;tabletti, kalvopäällysteinen;100;kpl;;sertraliini;0593;1;0;1
 081898;081898;115232;Sildenafil Ratiopharm;50 mg;tabletti, kalvopäällysteinen;12;kpl;;sildenafiili;0908;1;0;1
+081907;081907;222435;Ojemda;100 mg;tabletti, kalvopäällysteinen;20;kpl;;tovorafenibi;;1;0;1
 081931;081931;115236;Sildenafil Ratiopharm;100 mg;tabletti, kalvopäällysteinen;12;kpl;;sildenafiili;0920;1;0;1
 081984;447300;9177;Emla;25 mg/g + 25 mg/g;emulsiovoide;30 g;g;;yhdistelmävalmisteet;1170;1;0;0
 082005;046602;79699;Prolastina;1000 mg;infuusiokuiva-aine ja liuotin, liuosta varten;1 g + 40 ml;kpl;;alfa-1-antitrypsiini;;1;0;0
@@ -4526,6 +4530,7 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 143412;485006;3096;Ultracortenol;5 mg/g;silmävoide;5 g;g;;prednisoloni;;1;0;0
 143434;143434;211552;Leponex;200 mg;tabletti;30;kpl;;klotsapiini;2990;1;0;1
 143511;143511;192479;Twinrix Paediatric;;injektioneste, suspensio, esitäytetty ruisku;0.5 ml;annos;;yhdistelmävalmisteet;;1;0;1
+143525;143525;187957;Ovaleap;900 IU / 1.5 ml;injektioneste, liuos;1.5 ml;kpl;;follitropiini alfa;2928;1;0;1
 143527;143527;219896;Risperidon Orion;1 mg;tabletti, kalvopäällysteinen;100;kpl;;risperidoni;0946;1;0;1
 143534;143534;161255;Ticovac;2.4 mikrog / 0.5 ml;injektioneste, suspensio, esitäytetty ruisku;0.5 ml;annos;;inaktivoitu puutiaisaivotulehdusrokote (koko virus);;1;0;1
 143584;143584;208395;Dimethyl fumarate Orion;240 mg;enterokapseli, kova;56;kpl;;dimetyylifumaraatti;2108;1;0;1
@@ -5554,6 +5559,7 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 180820;180820;88088;Bisoprolol Vitabalans;10 mg;tabletti;30;kpl;;bisoprololi;0078;1;0;1
 180950;180950;6045;Bucort;0.1 %;emulsiovoide;50 g;g;;hydrokortisonibutyraatti;0710;1;0;1
 180968;180968;6046;Bucort;0.1 %;emulsiovoide;100 g;g;;hydrokortisonibutyraatti;0710;1;0;1
+180982;180982;214557;Strifus;20 mg/g;emulsiovoide;15 g;g;;fusidiinihappo;0906;1;0;1
 180996;180996;156865;Ketipinor;200 mg;tabletti, kalvopäällysteinen;100;kpl;;ketiapiini;0692;1;0;1
 181055;181055;218336;Melatonin Senaxa;2 mg;depottabletti;30;kpl;;melatoniini;1915;1;0;1
 181083;181083;96016;Epirubicin Accord;2 mg/ml;injektio-/infuusioneste, liuos;25 ml;ml;;epirubisiini;1793;1;0;1
@@ -7250,6 +7256,7 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 420762;420762;212213;Bimatix;400 mg;tabletti, kalvopäällysteinen;30 x 1;kpl;;imatinibi;1400;1;0;1
 420792;420792;182651;Aderolio;0.25 mg;tabletti;60;kpl;;everolimuusi;2206;1;0;1
 420816;420816;162856;Aripiprazole Ratiopharm;15 mg;tabletti;28;kpl;;aripipratsoli;0729;1;0;1
+420944;420944;214558;Strifus;20 mg/g;emulsiovoide;30 g;g;;fusidiinihappo;0906;1;0;1
 420952;420952;207658;Cloxacillin Navamedic;1 g;injektio-/infuusiokuiva-aine liuosta varten;10 x 1 g;kpl;;kloksasilliini;2736;1;0;1
 420971;149288;166141;Metrobactin vet;250 mg;tabletti;10;kpl;;Metronidatsoli;;0;1;0
 420976;420976;6423;Bisolvon;8 mg;tabletti;20;kpl;;bromiheksiini;;1;0;1
@@ -7490,6 +7497,7 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 429985;429985;9794;Addex-Kaliumklorid;150 mg/ml;infuusiokonsentraatti, liuosta varten;20 x 20 ml;ml;;kaliumkloridi;1763;1;0;1
 429991;429991;213576;Esomeprazol Hexal;40 mg;enterotabletti;120;kpl;;esomepratsoli;0635;1;0;1
 430025;430025;9795;Addex-Natriumklorid;235 mg/ml;infuusiokonsentraatti, liuosta varten;20 x 20 ml;ml;;natriumkloridi;;1;0;1
+430049;430049;211099;Metoclopramide G.L. Pharma;5 mg/ml;injektioneste, liuos;10 x 2 ml;ml;;metoklopramidi;1618;1;0;1
 430104;430104;212162;Rivaxa;2.5 mg;tabletti, kalvopäällysteinen;196;kpl;;rivaroksabaani;2404;1;0;1
 430176;528991;133675;Escitalopram Sandoz;10 mg;tabletti, kalvopäällysteinen;250;kpl;;essitalopraami;1125;1;0;0
 430213;430213;189299;Docetaxel Accord;80 mg / 4 ml;infuusiokonsentraatti, liuosta varten;80 mg;kpl;;dosetakseli;1902;1;0;1
@@ -8051,6 +8059,7 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 451995;451995;225490;QUVIVIQ;50 mg;tabletti, kalvopäällysteinen;30;kpl;;daridoreksantti;3088;1;0;1
 452031;452031;169451;RAVICTI;1.1 g/ml;oraalineste;25 ml;ml;;glyserolifenyylibutyraatti;;1;0;1
 452042;452042;131409;Sildenafil Viatris;25 mg;tabletti, kalvopäällysteinen;4;kpl;;sildenafiili;0907;1;0;1
+452122;452122;224976;Atenativ;50 IU/ml;infuusiokuiva-aine ja liuotin, liuosta varten;1000 IU + 20 ml;kpl;;antitrombiini;;1;0;1
 452133;452133;214199;Diacomit;500 mg;kapseli, kova;60;kpl;;stiripentoli;2730;1;0;1
 452257;452257;166482;Aclovir;200 mg;tabletti;25;kpl;;asikloviiri;0243;1;0;1
 452260;452260;218643;Hilkota;50 mikrog/g + 0.5 mg/g;ihovaahto;60 g;g;;kalsipotrioli, yhdistelmävalmisteet;3135;1;0;1
@@ -8135,7 +8144,7 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 455584;166562;12868;Famvir;500 mg;tabletti, kalvopäällysteinen;21;kpl;;famsikloviiri;2361;1;0;0
 455634;455634;167;Bacibact;500 IU / g + 5 mg / g;voide;20 g;g;;neomysiini;;1;0;1
 455673;455673;197129;Dabigatran etexilate Sandoz;110 mg;kapseli, kova;10;kpl;;dabigatraanieteksilaatti;2625;1;0;1
-455692;455692;187957;Ovaleap;900 IU / 1.5 ml;injektioneste, liuos;1.5 ml;kpl;;follitropiini alfa;2928;1;0;1
+455692;143525;187957;Ovaleap;900 IU / 1.5 ml;injektioneste, liuos;1.5 ml;kpl;;follitropiini alfa;2928;1;0;0
 455796;455796;176084;Solifenacin Stada;5 mg;tabletti, kalvopäällysteinen;30;kpl;;solifenasiini;1641;1;0;1
 455858;455858;218912;Evfraxy;60 mg;injektioneste, liuos, esitäytetty ruisku;1 ml;ml;Injektioruisku;denosumabi;2977;1;0;1
 455865;455865;566;Barbihydan;;tabletti;100;kpl;;fenytoiini, yhdistelmävalmisteet;;1;0;1
@@ -8461,6 +8470,7 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 468246;468246;200848;Coxatab;225 mg;purutabletti;30;kpl;;firocoxib;;0;1;1
 468292;468292;166888;Rosuvastatin Actavis;15 mg;tabletti, kalvopäällysteinen;28;kpl;;rosuvastatiini;1925;1;0;1
 468319;468319;214097;Paxneury;7 mg;depottabletti;28;kpl;;guanfasiini;;1;0;1
+468320;468320;222441;Ojemda;25 mg/ml;jauhe oraalisuspensiota varten;300 mg;kpl;Mittaruisku;tovorafenibi;;1;0;1
 468373;468373;89054;Aerinaze;2.5 mg / 120 mg;säädellysti vapauttava tabletti;10;kpl;;pseudoefedriini, yhdistelmävalmisteet;1464;1;0;1
 468467;468467;224959;Nelio;5 mg;tabletti;100;kpl;;Benatsepriili;;0;1;1
 468537;468537;151243;Stronghold;15 mg;paikallisvaleluliuos;3 x 0.25 ml;kpl;;selamectin;;0;1;1
@@ -9217,6 +9227,7 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 496936;109612;172568;Imatinib Sandoz;400 mg;tabletti, kalvopäällysteinen;30;kpl;;imatinibi;1400;1;0;0
 497012;497012;147269;Dificlir;200 mg;tabletti, kalvopäällysteinen;20 x 1;kpl;;fidaksomisiini;;1;0;1
 497105;497105;193712;Candecam;16 mg / 10 mg;tabletti;98;kpl;;kandesartaani ja amlodipiini;;1;0;1
+497134;497134;222434;Ojemda;100 mg;tabletti, kalvopäällysteinen;16;kpl;;tovorafenibi;;1;0;1
 497246;497246;114081;Spironolactone Orion;100 mg;tabletti;100;kpl;;spironolaktoni;;1;0;1
 497353;497353;225274;CELSENTRI;150 mg;tabletti, kalvopäällysteinen;60;kpl;;maraviroki;2296;1;0;1
 497354;497354;201633;Methylphenidate Orion;36 mg;depottabletti;30;kpl;;metyylifenidaatti;1571;1;0;1
@@ -10402,6 +10413,7 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 546024;182112;41738;Risperidon Sandoz;4 mg;tabletti, kalvopäällysteinen;60;kpl;;risperidoni;0951;1;0;0
 546044;546044;225710;ALUTARD SQ 225 Timotei (Phleum pratense), siitepölyt;;injektioneste, suspensio;4 x 5 ml;ml;;heinän siitepöly;;1;0;1
 546051;546051;225711;ALUTARD SQ 225 Timotei (Phleum pratense), siitepölyt;;injektioneste, suspensio;5 ml;ml;;heinän siitepöly;;1;0;1
+546055;546055;224975;Atenativ;50 IU/ml;infuusiokuiva-aine ja liuotin, liuosta varten;500 IU + 10 ml;kpl;;antitrombiini;;1;0;1
 546058;546058;216348;Stoboclo;60 mg;injektioneste, liuos, esitäytetty ruisku;1 ml;ml;;denosumabi;2977;1;0;1
 546176;546176;3464;Para-Tabs;500 mg;tabletti;10;kpl;;parasetamoli;0325;1;0;1
 546192;546192;3466;Para-Tabs;500 mg;tabletti;100;kpl;;parasetamoli;0325;1;0;1
@@ -11372,6 +11384,7 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 584854;584854;5559;FML LIQUIFILM;1 mg/ml;silmätipat, suspensio;5 ml;ml;;fluorometoloni;2075;1;0;1
 584896;584896;7622;Doximed;150 mg;tabletti;10;kpl;;doksisykliini;0189;1;0;1
 584897;584897;184146;Folic Acid Vitabalans;1 mg;tabletti;30;kpl;;foolihappo;;1;0;1
+584931;584931;41082;Panacod;;poretabletti;60;kpl;;kodeiini ja parasetamoli;1351;1;0;1
 585005;585005;185299;Shingrix;;injektiokuiva-aine ja suspensio, suspensiota varten;10 x (50 mikrog + 0.5 ml);annosta;;vyöruusurokote, puhdistettu antigeeni;;1;0;1
 585066;585066;183104;Xarelto;10 mg;tabletti, kalvopäällysteinen;14;kpl;;rivaroksabaani;1345;1;0;1
 585085;155216;172313;Erelzi;50 mg;injektioneste, liuos, esitäytetty ruisku;12 x 50 mg;kpl;;etanersepti;2527;1;0;0
@@ -11464,6 +11477,7 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 588696;588696;158451;Mommox;50 mikrog/annos;nenäsumute, suspensio;140 annosta;annosta;;mometasoni;1382;1;0;1
 588894;588894;205445;Desmopressin Sandoz;120 mikrog;resoribletti;30;kpl;;desmopressiini;2768;1;0;1
 588908;588908;197671;Dabigatran etexilate Orion;110 mg;kapseli, kova;60;kpl;;dabigatraanieteksilaatti;2625;1;0;1
+588918;588918;138123;Porcilis ColiClos;;injektioneste, suspensio;50 ml;ml;;Escherichia vaccine + Clostridium vaccine;;0;1;1
 588978;588978;184489;Esperoct;1500 IU;injektiokuiva-aine ja liuotin, liuosta varten;1500 IU;kpl;;hyytymistekijä VIII;;1;0;1
 588994;588994;179005;Amlodipin Orion;5 mg;tabletti;98;kpl;;amlodipiini;0565;1;0;1
 589010;589010;22206;Linatil;5 mg;tabletti;100;kpl;;enalapriili;0098;1;0;1
