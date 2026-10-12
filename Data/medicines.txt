@@ -177,7 +177,7 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 005589;177449;28143;Estradot;37.5 mikrog / 24 tuntia;depotlaastari;24;kpl;;estradioli;;1;0;0
 005623;374310;28146;Estradot;50 mikrog / 24 tuntia;depotlaastari;24;kpl;;estradioli;;1;0;0
 005634;072094;28149;Estradot;75 mikrog / 24 tuntia;depotlaastari;24;kpl;;estradioli;;1;0;0
-005650;522103;28152;Estradot;100 mikrog / 24 tuntia;depotlaastari;24;kpl;;estradioli;;1;0;0
+005650;421130;28152;Estradot;100 mikrog / 24 tuntia;depotlaastari;24;kpl;;estradioli;;1;0;0
 005692;048770;34316;Hemosol B0;;hemodialyysi- / hemofiltraationeste;2 x 5000 ml;ml;;Hemofiltraatit;;1;0;0
 005766;005766;11836;Cetrotide;0.25 mg;injektiokuiva-aine ja liuotin, liuosta varten;0.25 mg + 1 ml;kpl;;setroreliksi;;1;0;1
 005769;005769;2674;Hiprex;1 g;jauhe;100;kpl;;metenamiini;;1;0;1
@@ -1343,7 +1343,6 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 035274;088274;133417;Cardisure vet.;1.25 mg;tabletti;100;kpl;;Pimobendaani;;0;1;0
 035300;035300;156608;Barbivet vet;60 mg;tabletti;300;kpl;;Fenobarbitaali;;0;1;1
 035303;398178;3517;Finrexin Sitruuna;350 mg / 30 mg / 300 mg;jauhe;20 x 5 g;annos;;asetyylisalisyylihappo, yhdistelmävalmisteet;3026;1;0;0
-035327;035327;177749;Ibumax-C;400 mg / 300 mg;tabletti, kalvopäällysteinen;20;kpl;;ibuprofeeni, yhdistelmävalmisteet;;1;0;1
 035378;035378;104;Konakion;10 mg;purutabletti;10;kpl;;fytomenadioni;;1;0;1
 035439;035439;210762;Wezenla;45 mg;injektioneste, liuos, esitäytetty ruisku;45 mg;kpl;;ustekinumabi;2966;1;0;1
 035514;035514;167614;Uptravi;800 mikrog;tabletti, kalvopäällysteinen;60;kpl;;seleksipagi;;1;0;1
@@ -3520,7 +3519,6 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 104541;104541;173456;Venclyxto;10 mg;tabletti, kalvopäällysteinen;14 (7 x 2);kpl;;venetoklaksi;2721;1;0;1
 104591;104591;207016;Lugesteron;400 mg;emätinpuikko, kapseli, pehmeä;15;kpl;;progesteroni;;1;0;1
 104623;051738;113309;Repaglinid Stada;0.5 mg;tabletti;90;kpl;;repaglinidi;1039;1;0;0
-104656;104656;124752;Dicuno;50 mg;tabletti, kalvopäällysteinen;30;kpl;;diklofenaakki;0284;1;0;1
 104675;104675;167913;Entresto;24 mg / 26 mg;tabletti, kalvopäällysteinen;28;kpl;;valsartaani ja sakubitriili;1979;1;0;1
 104702;104702;180028;Cetimax;10 mg;tabletti, kalvopäällysteinen;100;kpl;;setiritsiini;0429;1;0;1
 104775;104775;220862;Flavamed;30 mg;tabletti;20;kpl;;ambroksoli;1642;1;0;1
@@ -3620,7 +3618,6 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 107366;107366;177115;Voltaren Forte;23.2 mg/g;geeli;100 g;g;;diklofenaakki;1652;1;0;1
 107371;107371;116989;Valsartore Comp;160 mg / 12.5 mg;tabletti, kalvopäällysteinen;30;kpl;;valsartaani ja diureetit;0919;1;0;1
 107390;107390;165726;Lipistad;20 mg;tabletti, kalvopäällysteinen;30 x 1;kpl;;atorvastatiini;1084;1;0;1
-107395;107395;216658;Vaxigrip;15 mikrog HA / 0.5 ml;injektioneste, suspensio, esitäytetty ruisku;0.5 ml;annos;Injektioruisku;influenssarokote, puhdistettu antigeeni;;1;0;1
 107407;107407;98801;Cepesedan vet.;10 mg/ml;injektioneste, liuos;5 x 20 ml;ml;;Detomidiini;;0;1;1
 107414;107414;156596;Primaspan;100 mg;enterotabletti;300;kpl;;asetyylisalisyylihappo;;1;0;1
 107449;107449;174704;Credelio;450 mg;purutabletti;6;kpl;;lotilaner;;0;1;1
@@ -4141,6 +4138,7 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 126881;126881;175378;Perindopril/Amlodipin Krka;4 mg / 10 mg;tabletti;30;kpl;;perindopriili ja amlodipiini;1970;1;0;1
 126955;126955;169893;Dexametason Abcur;1 mg;tabletti;100 x 1;kpl;;deksametasoni;3078;1;0;1
 126957;126957;195826;Buvidal;160 mg;depotinjektioneste, liuos;0.45 ml;kpl;;buprenorfiini;;1;0;1
+126973;126973;226594;Vi-Siblin;;rakeet;50 x 6 g;g;;ispaghula (psylliumin siemenet);3126;1;0;1
 127020;127020;197554;Apoquel;5.4 mg;purutabletti;100;kpl;;Oclacitinib;;0;1;1
 127030;127030;166279;OPDIVO;10 mg/ml;infuusiokonsentraatti, liuosta varten;4 ml;ml;;nivolumabi;2009;1;0;1
 127091;127091;63070;Propolipid;10 mg/ml;injektio/infuusioneste, emulsio;10 x 100 ml;ml;;propofoli;1826;1;0;1
@@ -4424,7 +4422,7 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 138864;138864;87340;Perusliuos-K;;infuusioneste, liuos;20 x 500 ml;ml;;elektrolyytit ja hiilihydraatit;;1;0;1
 138904;138904;161457;Sukolin;50 mg/ml;injektio-/infuusioneste, liuos;5 x 2 ml;ml;;suksametoni;2214;1;0;1
 138992;526972;158431;Natriumklorid Vantive;9 mg/ml;infuusioneste, liuos;6 x 2000 ml;ml;;elektrolyytit;1759;1;0;0
-139010;374379;164116;Exoflox vet.;25 mg/ml;konsentraatti oraaliliuosta varten;10 ml;ml;;Enrofloksasiini;;0;1;0
+139010;374379;164116;Exoflox vet.;25 mg/ml;konsentraatti oraaliliuosta varten;10 ml;ml;Mittaruisku;Enrofloksasiini;;0;1;0
 139013;139013;139330;Xarelto;15 mg;tabletti, kalvopäällysteinen;42;kpl;;rivaroksabaani;2405;1;0;1
 139030;159985;8979;Tramadol Hexal;100 mg;kapseli, kova;30;kpl;;tramadoli;;1;0;0
 139048;139048;8982;Tramadol Hexal;100 mg;kapseli, kova;100;kpl;;tramadoli;;1;0;1
@@ -4499,7 +4497,6 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 141460;141460;147931;Exspot Vet;715 mg/ml;paikallisvaleluliuos;1 ml;ml;;Permetriini;;0;1;1
 141508;141508;196540;Fucidin;2 %;emulsiovoide;30 g;g;;fusidiinihappo;0906;1;0;1
 141512;141512;184769;Spasmipur vet.;20 mg/ml;injektioneste, liuos;50 ml;ml;;Butyyliskopolamiini;;0;1;1
-141529;141529;177748;Ibumax-C;400 mg / 300 mg;tabletti, kalvopäällysteinen;10;kpl;;ibuprofeeni, yhdistelmävalmisteet;;1;0;1
 141642;141642;196612;Icatibant Glenmark;30 mg;injektioneste, liuos, esitäytetty ruisku;3 ml;ml;;ikatibantti;2408;1;0;1
 141657;522097;183387;Hydromorphone Kalceks;50 mg/ml;injektio-/infuusioneste, liuos;5 x 1 ml;ml;;hydromorfoni;2186;1;0;0
 141759;141759;201291;Intelence;200 mg;tabletti;60;kpl;;etraviriini;2536;1;0;1
@@ -6158,7 +6155,7 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 374279;462500;148960;Ciqorin;25 mg;kapseli, pehmeä;50 x 1;kpl;;siklosporiini;;1;0;0
 374310;374310;28146;Estradot;50 mikrog / 24 tuntia;depotlaastari;24;kpl;;estradioli;;1;0;1
 374312;374312;218034;Varenzin;23.3 mg/ml;oraalisuspensio;27 ml;ml;Mittaruisku;molidustaatti;;0;1;1
-374379;374379;164116;Exoflox vet.;25 mg/ml;konsentraatti oraaliliuosta varten;10 ml;ml;;Enrofloksasiini;;0;1;1
+374379;374379;164116;Exoflox vet.;25 mg/ml;konsentraatti oraaliliuosta varten;10 ml;ml;Mittaruisku;Enrofloksasiini;;0;1;1
 374397;374397;9837;Valtrex;250 mg;tabletti, kalvopäällysteinen;60;kpl;;valasikloviiri;;1;0;1
 374415;374415;169747;Quetiapine Accord;150 mg;depottabletti;100;kpl;;ketiapiini;1540;1;0;1
 374441;374441;28768;Bicavera 2.3 % Glukoosi, 1.75 Mmol/L Kalsium;;peritoneaalidialyysineste;4 x 2000 ml;ml;;Hypertoniset liuokset;;1;0;1
@@ -6356,7 +6353,7 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 383224;383224;61603;Mobic;7.5 mg;tabletti;100;kpl;;meloksikaami;;1;0;1
 383259;383259;211790;Yuflyma;40 mg;injektioneste, liuos, esitäytetty kynä;6 x 0.4 ml;kpl;;adalimumabi;2636;1;0;1
 383267;383267;188121;Duloxetine Accordpharma;40 mg;enterokapseli, kova;56;kpl;;duloksetiini;1627;1;0;1
-383379;383379;192855;Rivaroxaban Sandoz;2.5 mg;tabletti, kalvopäällysteinen;196;kpl;;rivaroksabaani;2404;1;0;1
+383379;517181;192855;Rivaroxaban Sandoz;2.5 mg;tabletti, kalvopäällysteinen;196;kpl;;rivaroksabaani;2404;1;0;0
 383395;383395;200208;Rivaroxaban Stada;10 mg;tabletti, kalvopäällysteinen;14;kpl;;rivaroksabaani;1345;1;0;1
 383424;383424;199429;Prosterid;1 mg;tabletti, kalvopäällysteinen;98;kpl;;finasteridi;2339;1;0;1
 383589;383589;164962;Aciclovir Sandoz;200 mg;tabletti;25;kpl;;asikloviiri;0243;1;0;1
@@ -7263,6 +7260,7 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 421006;421006;154991;Celecoxib Krka;100 mg;kapseli, kova;30;kpl;;selekoksibi;1339;1;0;1
 421014;421014;182062;Braftovi;75 mg;kapseli, kova;42 x 1;kpl;;enkorafenibi;;1;0;1
 421091;530751;111240;Nicorette Mentholmint;2 mg;lääkepurukumi;210;kpl;;nikotiini;;1;0;0
+421130;421130;28152;Estradot;100 mikrog / 24 tuntia;depotlaastari;24;kpl;;estradioli;;1;0;1
 421180;421180;6586;Cordarone;100 mg;tabletti;30;kpl;;amiodaroni;;1;0;1
 421227;421227;62018;Ticovac Junior;1.2 mikrog / 0.25 ml;injektioneste, suspensio, esitäytetty ruisku;0.25 ml;annos;;inaktivoitu puutiaisaivotulehdusrokote (koko virus);;1;0;1
 421245;421245;197957;Voltaren Forte;23.2 mg/g;geeli;150 g;g;;diklofenaakki;1652;1;0;1
@@ -7569,6 +7567,7 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 432881;432881;166928;Paracetamol Accord;500 mg;poretabletti;100;kpl;;parasetamoli;0568;1;0;1
 432953;432953;163420;COMETRIQ;20 mg + 80 mg;kapseli, kova;84 (20 mg) + 28 (80 mg);kpl;;kabotsantinibi;;1;0;1
 432984;432984;226154;Emevet;24 mg;purutabletti;4;kpl;;Maropitant;;0;1;1
+433010;433010;216212;Datroway;100 mg;kuiva-aine välikonsentraatiksi infuusionestettä varten, liuos;100 mg;kpl;;datopotamabi-derukstekaani;;1;0;1
 433028;433028;200076;Temozolomide Accord;100 mg;kapseli, kova;20 x 1;kpl;;temotsolomidi;1159;1;0;1
 433078;433078;877;Celeston Chronodose;(3+3) mg/ml;injektioneste, suspensio;5 ml;ml;;beetametasoni;;1;0;1
 433171;433171;151370;Memantin Orion;10 mg;tabletti, kalvopäällysteinen;100;kpl;;memantiini;0405;1;0;1
@@ -7677,6 +7676,7 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 437007;437007;181522;Atomoxetine Stada;18 mg;kapseli, kova;30;kpl;;atomoksetiini;2113;1;0;1
 437165;437165;106826;Bisoproact;5 mg;tabletti;30;kpl;;bisoprololi;0081;1;0;1
 437187;437187;194458;MAVENCLAD;10 mg;tabletti;6;kpl;;kladribiini;2292;1;0;1
+437223;437223;155941;Xofigo;1100 kBq/ml;injektioneste, liuos;6 ml;ml;;radium(223Ra)dikloridi;;1;0;1
 437288;437288;204332;Refixia;3000 IU;injektiokuiva-aine ja liuotin, liuosta varten;3000 IU + 4 ml;kpl;;hyytymistekijä IX;;1;0;1
 437388;437388;202232;Venlafaxin ratiopharm;75 mg;depotkapseli, kova;28;kpl;;venlafaksiini;1021;1;0;1
 437418;437418;6092;Fiberform Mix;;annosrakeet;30 x 5 g;g;;vehnäkuitu;;1;0;1
@@ -7724,6 +7724,7 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 439221;439221;215427;Brivaracetam STADA;100 mg;tabletti, kalvopäällysteinen;56 x 1;kpl;;brivarasetaami;;1;0;1
 439307;439307;199558;Bocouture;100 yksikköä;injektiokuiva-aine, liuosta varten;1;kpl;;botuliinitoksiini;2604;1;0;1
 439387;439387;191887;Haemate;250 IU FVIII / 600 IU VWF;injektio/infuusiokuiva-aine ja liuotin, liuos;500 IU/1200 IU+10 ml;kpl;;von Willebrand-tekijän ja hyytymistekijä VIII:n yhdistelmävalmisteet;;1;0;1
+439389;439389;228156;Twinrix Adult;;injektioneste, suspensio, esitäytetty ruisku;1 ml;annos;Injektioneula;yhdistelmävalmisteet;2865;1;0;1
 439396;439396;195843;Zolgensma;2 x 10exp13 vektorigenomia/ml;infuusioneste, liuos;2 x 5.5 ml + 6 x 8.3 ml;kpl;;onasemnogeeniabeparvoveekki;;1;0;1
 439485;439485;197660;Dabigatran etexilate Orion;75 mg;kapseli, kova;60;kpl;;dabigatraanieteksilaatti;2624;1;0;1
 439489;439489;3985;Logimax;5 mg / 47.5 mg;depottabletti;98;kpl;;metoprololi ja felodipiini;2343;1;0;1
@@ -9684,6 +9685,7 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 517006;517006;146425;Kesium;40 mg / 10 mg;purutabletti;240;kpl;;Amoksisilliini ja entsyymi-inhibiittori;;0;1;1
 517008;517008;203225;Axitinib Sandoz;7 mg;tabletti, kalvopäällysteinen;56;kpl;;aksitinibi;2715;1;0;1
 517173;517173;182116;Ibuxin;40 mg/ml;siirappi;100 ml;ml;;ibuprofeeni;;1;0;1
+517181;517181;192855;Rivaroxaban Sandoz;2.5 mg;tabletti, kalvopäällysteinen;196;kpl;;rivaroksabaani;2404;1;0;1
 517228;517228;174442;Reagila;3 mg;kapseli, kova;28;kpl;;karipratsiini;2742;1;0;1
 517297;517297;194162;Ficoxil;227 mg;purutabletti;100;kpl;;firocoxib;;0;1;1
 517356;517356;171856;Alfuzosin Hydrochloride Orion;10 mg;depottabletti;30;kpl;;alfutsosiini;0771;1;0;1
@@ -9791,7 +9793,7 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 522070;522070;211720;Vetoryl;60 mg;purutabletti;30;kpl;;Trilostaani;;0;1;1
 522073;522073;196413;Fluconazol Vitabalans;150 mg;tabletti;6;kpl;;flukonatsoli;0241;1;0;1
 522097;522097;183387;Hydromorphone Kalceks;50 mg/ml;injektio-/infuusioneste, liuos;5 x 1 ml;ml;;hydromorfoni;2186;1;0;1
-522103;522103;28152;Estradot;100 mikrog / 24 tuntia;depotlaastari;24;kpl;;estradioli;;1;0;1
+522103;421130;28152;Estradot;100 mikrog / 24 tuntia;depotlaastari;24;kpl;;estradioli;;1;0;0
 522237;522237;7479;Nizoral;2 %;emulsiovoide;30 g;g;;ketokonatsoli;2608;1;0;1
 522254;522254;212387;Pomalidomide STADA;4 mg;kapseli, kova;21 x 1;kpl;;pomalidomidi;2840;1;0;1
 522290;522290;183670;Dronedarone Stada;400 mg;tabletti, kalvopäällysteinen;100;kpl;;dronedaroni;;1;0;1
@@ -10749,7 +10751,7 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 559917;559917;222385;Adempas;2 mg;tabletti, kalvopäällysteinen;42;kpl;;riosiguaatti;2190;1;0;1
 559941;559941;200697;Piperacillin/Tazobactam Qilu;2 g / 0.25 g;infuusiokuiva-aine, liuosta varten;10 x 2 g / 0.25 g;kpl;;piperasilliini ja beetalaktamaasin estäjä;1772;1;0;1
 559948;559948;7580;Estring;7.5 mikrog / 24 tuntia;depotlääkevalmiste, emättimeen;1;kpl;;estradioli;;1;0;1
-559995;559995;155941;Xofigo;1100 kBq/ml;injektioneste, liuos;6 ml;ml;;radium(223Ra)dikloridi;;1;0;1
+559995;437223;155941;Xofigo;1100 kBq/ml;injektioneste, liuos;6 ml;ml;;radium(223Ra)dikloridi;;1;0;0
 560013;560013;200473;Buprenorphine Sandoz;30 mikrog/tunti;depotlaastari;4;kpl;;buprenorfiini;2431;1;0;1
 560054;560054;184723;Thiamine Sterop;125 mg/ml;injektioneste, liuos;10 x 2 ml;ml;;tiamiini (B1-vitamiini);;1;0;1
 560083;560083;217803;Amlodipine ratiopharm;5 mg;tabletti;30;kpl;;amlodipiini;0565;1;0;1
@@ -10796,6 +10798,7 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 561563;561563;12515;Tractocile;37.5 mg / 5 ml;infuusiokonsentraatti, liuosta varten;37.5 mg;kpl;;atosibaani;1512;1;0;1
 561585;561585;182500;Loratadin Ratiopharm;10 mg;tabletti;100;kpl;;loratadiini;0430;1;0;1
 561730;561730;206680;Zopiclone Grindeks;7.5 mg;tabletti, kalvopäällysteinen;30;kpl;;tsopikloni;0373;1;0;1
+561734;561734;182733;Relvar Ellipta;92 mikrog / 22 mikrog / annos;inhalaatiojauhe, annosteltu;3 x 30 annosta;annosta;Inhalaatiolaite;vilanteroli ja flutikasonifuroaatti;1976;1;0;1
 561780;561780;156097;Adempas;1.5 mg;tabletti, kalvopäällysteinen;42;kpl;;riosiguaatti;2596;1;0;1
 561844;561844;194149;Ficoxil;57 mg;purutabletti;100;kpl;;firocoxib;;0;1;1
 561886;561886;5724;Atrovent Comp;;sumutinliuos;20 x 4 ml;annos;;fenoteroli ja ipratropiumbromidi;;1;0;1
