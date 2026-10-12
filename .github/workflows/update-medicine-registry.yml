@@ -2,7 +2,7 @@ name: Update Fimea medicine registry
 
 on:
   schedule:
-    - cron: "17 8 * * 1"
+    - cron: "17 8 * * *"
       timezone: "Europe/Helsinki"
   workflow_dispatch:
 
