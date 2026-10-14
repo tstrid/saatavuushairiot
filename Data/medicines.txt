@@ -4731,7 +4731,7 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 151168;151168;40814;Crestor;20 mg;tabletti, kalvopäällysteinen;14;kpl;;rosuvastatiini;1015;1;0;1
 151217;151217;1871;Flagyl;500 mg;emätinpuikko;10;kpl;;metronidatsoli;1911;1;0;1
 151226;151226;215322;Levothyroxine SERB;200 mikrog/ml;injektio-/infuusioneste, liuos;6 x 1 ml;ml;;levotyroksiininatrium;;1;0;1
-151239;151239;158580;Orfadin;4 mg/ml;oraalisuspensio;90 ml;ml;;nitisinoni;;1;0;1
+151239;151239;158580;Orfadin;4 mg/ml;oraalisuspensio;90 ml;ml;Mittaruisku;nitisinoni;;1;0;1
 151305;151305;123906;Quetiapine Accord;25 mg;tabletti, kalvopäällysteinen;100;kpl;;ketiapiini;1088;1;0;1
 151341;151341;136221;Rebif;22 mikrog;injektioneste, liuos, esitäytetty kynä;12 x 22 mikrog;kpl;;interferoni beeta-1a;;1;0;1
 151394;151394;91679;Oriptan;50 mg;tabletti, kalvopäällysteinen;12;kpl;;sumatriptaani;0328;1;0;1
