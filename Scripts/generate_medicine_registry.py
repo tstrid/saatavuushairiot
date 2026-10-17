@@ -31,6 +31,7 @@ HEADER = [
     "SUBSTITUUTIORYHMA",
     "HUM",
     "VET",
+    "KAUPAN",
     "VNR_VOIMASSA",
 ]
 VNR_PATTERN = re.compile(r"^[0-9]{6}$")
@@ -68,6 +69,7 @@ class Package:
     package_size: str
     unit: str
     device: str
+    on_market: str
 
 
 def local_source(source: str, temporary_directory: Path) -> Path:
@@ -108,6 +110,7 @@ def parse_registry(source: Path) -> tuple[str, list[Package], dict[str, Product]
                         package_size=clean(element.findtext("Pakkauskokoteksti")),
                         unit=attribute_value(element.find("Pakkauskokoyksikko")),
                         device=attribute_value(element.find("Annostelulaite")),
+                        on_market=clean(element.findtext("Kaupanolo/Kaupan")) or "0",
                     )
                 )
             element.clear()
@@ -150,6 +153,7 @@ def rows_for(packages: list[Package], products: dict[str, Product]) -> list[list
             product.substitution_group,
             product.human,
             product.veterinary,
+            package.on_market,
         ]
         candidates.append([package.current_vnr, *common, "1"])
         for previous_vnr in package.previous_vnrs:
@@ -158,7 +162,7 @@ def rows_for(packages: list[Package], products: dict[str, Product]) -> list[list
 
     # Core Data uses VNR as the lookup key. Prefer a current assignment if an old
     # alias collides with it, then select deterministically among duplicate source rows.
-    candidates.sort(key=lambda row: (row[0], -int(row[13]), row[1], row[2]))
+    candidates.sort(key=lambda row: (row[0], -int(row[14]), row[1], row[2]))
     rows_by_vnr: dict[str, list[str]] = {}
     for row in candidates:
         rows_by_vnr.setdefault(row[0], row)
@@ -178,10 +182,12 @@ def validate(rows: list[list[str]]) -> dict[str, int]:
     if any(row[11] not in {"0", "1"} or row[12] not in {"0", "1"} for row in rows):
         raise ValueError("HUM and VET must contain only 0 or 1")
     if any(row[13] not in {"0", "1"} for row in rows):
+        raise ValueError("KAUPAN must contain only 0 or 1")
+    if any(row[14] not in {"0", "1"} for row in rows):
         raise ValueError("VNR_VOIMASSA must contain only 0 or 1")
 
-    current_rows = [row for row in rows if row[13] == "1"]
-    alias_rows = [row for row in rows if row[13] == "0"]
+    current_rows = [row for row in rows if row[14] == "1"]
+    alias_rows = [row for row in rows if row[14] == "0"]
     if len(current_rows) < 10_000:
         raise ValueError(f"Only {len(current_rows)} current records were generated")
     if not any(row[11] == "1" for row in current_rows):
@@ -190,6 +196,13 @@ def validate(rows: list[list[str]]) -> dict[str, int]:
         raise ValueError("No veterinary medicines were generated")
     if not alias_rows:
         raise ValueError("No previous-VNR aliases were generated")
+
+    on_market_current_rows = [row for row in current_rows if row[13] == "1"]
+    off_market_current_rows = [row for row in current_rows if row[13] == "0"]
+    if len(on_market_current_rows) < 9_000:
+        raise ValueError(f"Only {len(on_market_current_rows)} current records are on the market")
+    if not off_market_current_rows:
+        raise ValueError("No off-market current records were generated")
 
     current_rows_with_substitution_group = [row for row in current_rows if row[10]]
     substitution_groups = {row[10] for row in current_rows_with_substitution_group}
@@ -207,7 +220,7 @@ def validate(rows: list[list[str]]) -> dict[str, int]:
     identities: dict[tuple[str, str], tuple[str, ...]] = {}
     for row in current_rows:
         key = (row[0], row[2])
-        identity = tuple(row[1:13])
+        identity = tuple(row[1:14])
         previous = identities.setdefault(key, identity)
         if previous != identity:
             raise ValueError(f"Conflicting current record for VNR/package {key}")
@@ -218,6 +231,8 @@ def validate(rows: list[list[str]]) -> dict[str, int]:
         "aliasRecordCount": len(alias_rows),
         "humanRecordCount": sum(row[11] == "1" for row in current_rows),
         "veterinaryRecordCount": sum(row[12] == "1" for row in current_rows),
+        "onMarketCurrentRecordCount": len(on_market_current_rows),
+        "offMarketCurrentRecordCount": len(off_market_current_rows),
         "currentRecordsWithSubstitutionGroup": len(current_rows_with_substitution_group),
         "substitutionGroupCount": len(substitution_groups),
         "emptyNameCount": empty_names,

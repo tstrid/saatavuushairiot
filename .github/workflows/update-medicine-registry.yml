@@ -5,6 +5,10 @@ on:
     - cron: "17 8 * * *"
       timezone: "Europe/Helsinki"
   workflow_dispatch:
+  push:
+    paths:
+      - "Scripts/generate_medicine_registry.py"
+      - "Scripts/tests/**"
 
 permissions:
   contents: write
