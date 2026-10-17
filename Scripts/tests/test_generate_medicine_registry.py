@@ -24,6 +24,7 @@ class GeneratorTests(unittest.TestCase):
             <Pakkaustunnus>42</Pakkaustunnus><VNR-numero>123456</VNR-numero>
             <VanhaVNR>111111</VanhaVNR><Pakkauskokoteksti>10 ml</Pakkauskokoteksti>
             <Pakkauskokoyksikko value="ml"/><Annostelulaite value="Ruisku"/>
+            <Kaupanolo><Kaupan>1</Kaupan></Kaupanolo>
           </Pakkaus>
           <Pakkaus Laakevalmiste-ref="REL1">
             <Pakkaustunnus>43</Pakkaustunnus><VNR-numero>222222</VNR-numero>
@@ -43,22 +44,24 @@ class GeneratorTests(unittest.TestCase):
         self.assertEqual(rows[0][0], "111111")
         self.assertEqual(rows[0][1], "123456")
         self.assertEqual(rows[0][12], "1")
-        self.assertEqual(rows[0][13], "0")
+        self.assertEqual(rows[0][13], "1")
+        self.assertEqual(rows[0][14], "0")
         self.assertEqual(rows[0][10], "1943")
         self.assertEqual(rows[1][0], "123456")
         self.assertEqual(rows[1][13], "1")
+        self.assertEqual(rows[1][14], "1")
         self.assertEqual(len(rows), 2)
 
     def test_current_vnr_wins_over_colliding_alias(self):
         product = MODULE.Product("Name", "1 mg", "tablet", "A01", "1234", "1", "0")
         packages = [
-            MODULE.Package("A", "1", "123456", tuple(), "10", "kpl", ""),
-            MODULE.Package("A", "2", "654321", ("123456",), "20", "kpl", ""),
+            MODULE.Package("A", "1", "123456", tuple(), "10", "kpl", "", "1"),
+            MODULE.Package("A", "2", "654321", ("123456",), "20", "kpl", "", "1"),
         ]
         rows = MODULE.rows_for(packages, {"A": product})
         selected = next(row for row in rows if row[0] == "123456")
         self.assertEqual(selected[1], "123456")
-        self.assertEqual(selected[13], "1")
+        self.assertEqual(selected[14], "1")
 
 
 if __name__ == "__main__":
