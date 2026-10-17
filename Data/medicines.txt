@@ -2699,7 +2699,7 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 077608;077608;188382;Ticagrelor Stada;60 mg;tabletti, kalvopäällysteinen;56 x 1;kpl;;tikagrelori;2463;1;0;1
 077615;077615;83317;Medikinet;10 mg;tabletti;30;kpl;;metyylifenidaatti;;1;0;1
 077624;077624;83315;Medikinet;20 mg;tabletti;30;kpl;;metyylifenidaatti;;1;0;1
-077633;077633;96817;medikinet CR;10 mg;säädellysti vapauttava kapseli, kova;30;kpl;;metyylifenidaatti;;1;0;1
+077633;077633;96817;Medikinet CR;10 mg;säädellysti vapauttava kapseli, kova;30;kpl;;metyylifenidaatti;;1;0;1
 077642;077642;83344;Medikinet CR;20 mg;säädellysti vapauttava kapseli, kova;30;kpl;;metyylifenidaatti;;1;0;1
 077648;077648;140377;Livostin;0.5 mg/ml;silmätipat, suspensio;4 ml;ml;;levokabastiini;;1;0;1
 077652;077652;83345;Medikinet CR;30 mg;säädellysti vapauttava kapseli, kova;30;kpl;;metyylifenidaatti;;1;0;1
