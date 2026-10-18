@@ -33,6 +33,7 @@ HEADER = [
     "VET",
     "KAUPAN",
     "VNR_VOIMASSA",
+    "KAUPASTAPOISTUMISPAIVA",
 ]
 VNR_PATTERN = re.compile(r"^[0-9]{6}$")
 
@@ -70,6 +71,7 @@ class Package:
     unit: str
     device: str
     on_market: str
+    market_removal_date: str
 
 
 def local_source(source: str, temporary_directory: Path) -> Path:
@@ -95,8 +97,13 @@ def parse_registry(source: Path) -> tuple[str, list[Package], dict[str, Product]
         elif element.tag == "Pakkaus":
             current_vnr = clean(element.findtext("VNR-numero"))
             withdrawal_date = clean(element.findtext("Kaupanolo/Kaupastapoistumispaiva"))
-            is_current_package = not withdrawal_date or withdrawal_date >= source_date
-            if current_vnr and is_current_package:
+            source_day = datetime.strptime(source_date, "%Y-%m-%d").date()
+            try:
+                retention_cutoff = source_day.replace(year=source_day.year - 3)
+            except ValueError:
+                retention_cutoff = source_day.replace(year=source_day.year - 3, day=28)
+            is_retained_package = not withdrawal_date or withdrawal_date >= retention_cutoff.isoformat()
+            if current_vnr and is_retained_package:
                 packages.append(
                     Package(
                         product_reference=clean(element.attrib.get("Laakevalmiste-ref")),
@@ -111,6 +118,7 @@ def parse_registry(source: Path) -> tuple[str, list[Package], dict[str, Product]
                         unit=attribute_value(element.find("Pakkauskokoyksikko")),
                         device=attribute_value(element.find("Annostelulaite")),
                         on_market=clean(element.findtext("Kaupanolo/Kaupan")) or "0",
+                        market_removal_date=withdrawal_date,
                     )
                 )
             element.clear()
@@ -155,10 +163,10 @@ def rows_for(packages: list[Package], products: dict[str, Product]) -> list[list
             product.veterinary,
             package.on_market,
         ]
-        candidates.append([package.current_vnr, *common, "1"])
+        candidates.append([package.current_vnr, *common, "1", package.market_removal_date])
         for previous_vnr in package.previous_vnrs:
             if previous_vnr != package.current_vnr:
-                candidates.append([previous_vnr, *common, "0"])
+                candidates.append([previous_vnr, *common, "0", package.market_removal_date])
 
     # Core Data uses VNR as the lookup key. Prefer a current assignment if an old
     # alias collides with it, then select deterministically among duplicate source rows.
@@ -185,6 +193,9 @@ def validate(rows: list[list[str]]) -> dict[str, int]:
         raise ValueError("KAUPAN must contain only 0 or 1")
     if any(row[14] not in {"0", "1"} for row in rows):
         raise ValueError("VNR_VOIMASSA must contain only 0 or 1")
+    for row in rows:
+        if row[15]:
+            datetime.strptime(row[15], "%Y-%m-%d")
 
     current_rows = [row for row in rows if row[14] == "1"]
     alias_rows = [row for row in rows if row[14] == "0"]
@@ -220,7 +231,7 @@ def validate(rows: list[list[str]]) -> dict[str, int]:
     identities: dict[tuple[str, str], tuple[str, ...]] = {}
     for row in current_rows:
         key = (row[0], row[2])
-        identity = tuple(row[1:14])
+        identity = tuple(row[1:16])
         previous = identities.setdefault(key, identity)
         if previous != identity:
             raise ValueError(f"Conflicting current record for VNR/package {key}")

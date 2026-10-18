@@ -50,13 +50,15 @@ class GeneratorTests(unittest.TestCase):
         self.assertEqual(rows[1][0], "123456")
         self.assertEqual(rows[1][13], "1")
         self.assertEqual(rows[1][14], "1")
-        self.assertEqual(len(rows), 2)
+        self.assertEqual(rows[2][0], "222222")
+        self.assertEqual(rows[2][15], "2026-10-04")
+        self.assertEqual(len(rows), 3)
 
     def test_current_vnr_wins_over_colliding_alias(self):
         product = MODULE.Product("Name", "1 mg", "tablet", "A01", "1234", "1", "0")
         packages = [
-            MODULE.Package("A", "1", "123456", tuple(), "10", "kpl", "", "1"),
-            MODULE.Package("A", "2", "654321", ("123456",), "20", "kpl", "", "1"),
+            MODULE.Package("A", "1", "123456", tuple(), "10", "kpl", "", "1", ""),
+            MODULE.Package("A", "2", "654321", ("123456",), "20", "kpl", "", "1", ""),
         ]
         rows = MODULE.rows_for(packages, {"A": product})
         selected = next(row for row in rows if row[0] == "123456")
