@@ -5605,7 +5605,6 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 182559;182559;145782;Zolt;15 mg;enterokapseli, kova;98;kpl;;lansopratsoli;0012;1;0;1;1
 182575;182575;207527;Desmopressin ratiopharm;60 mikrog;resoribletti;100;kpl;;desmopressiini;2767;1;0;1;1
 182763;182763;166500;Vetmedin vet.;10 mg;purutabletti;100;kpl;;Pimobendaani;;0;1;1;1
-182805;182805;196634;Eucreas;50 mg / 850 mg;tabletti, kalvopäällysteinen;60;kpl;;metformiini ja vildagliptiini;1032;1;0;1;1
 182808;182808;4869;Cuplaton;100 mg;kapseli, pehmeä;30;kpl;;silikonit;;1;0;1;1
 182824;182824;4870;Cuplaton;100 mg;kapseli, pehmeä;100;kpl;;silikonit;;1;0;1;1
 182837;060918;145596;Dilaterol vet.;25 mikrog/ml;siirappi;355 ml;ml;;Klenbuteroli;;0;1;1;0
