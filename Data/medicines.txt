@@ -7233,7 +7233,7 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 391418;391418;201204;Bupropion Sandoz;300 mg;säädellysti vapauttava tabletti;90;kpl;;bupropioni;1623;1;0;1;1;
 391529;391529;183397;Trelegy Ellipta;92 mikrog / 55 mikrog / 22 mikrog;inhalaatiojauhe, annosteltu;30 annosta;annosta;;vilanteroli, umeklidiniumbromidi ja flutikasonifuroaatti;2202;1;0;1;1;
 391550;391550;166903;Trulicity;1.5 mg;injektioneste, liuos, esitäytetty kynä;4 x 1.5 mg;kpl;;dulaglutidi;2125;1;0;1;1;
-391582;391582;144327;ISENTRESS;25 mg;purutabletti;60;kpl;;raltegraviiri;;1;0;1;1;2026-10-18
+391582;391582;144327;ISENTRESS;25 mg;purutabletti;60;kpl;;raltegraviiri;;1;0;0;1;2026-10-18
 391585;391585;217979;Dutasteride Ratiopharm;0.5 mg;kapseli, pehmeä;90;kpl;;dutasteridi;1338;1;0;1;1;
 391643;391643;166501;Kaleorid;1 g;depottabletti;200;kpl;;kaliumkloridi;1545;1;0;1;1;
 391721;391721;174385;Ezetimib Medical Valley;10 mg;tabletti;100;kpl;;etsetimibi;1408;1;0;0;1;2026-05-01
@@ -7504,7 +7504,7 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 401076;401076;154673;Profast;10 mg/ml;injektio/infuusioneste, emulsio;50 ml;ml;;propofoli;1826;1;0;0;1;2024-01-01
 401116;401116;122980;Zolmistad;2.5 mg;tabletti, suussa hajoava;6;kpl;;tsolmitriptaani;0329;1;0;1;1;
 401133;012911;7738;LECROLYN;40 mg/ml;silmätipat, liuos;5 ml;ml;;natriumkromoglikaatti;;1;0;0;0;2026-10-01
-401134;401134;144329;ISENTRESS;100 mg;purutabletti;60;kpl;;raltegraviiri;;1;0;1;1;2026-10-18
+401134;401134;144329;ISENTRESS;100 mg;purutabletti;60;kpl;;raltegraviiri;;1;0;0;1;2026-10-18
 401155;401155;156709;Escitalopram Krka;20 mg;tabletti, kalvopäällysteinen;30;kpl;;essitalopraami;1127;1;0;1;1;
 401239;401239;181297;Hydrocortisone aceponate Ecuphar;0.584 mg/ml;sumute iholle, liuos;76 ml;ml;;Hydrokortisoniaseponaatti;;0;1;1;1;
 401494;401494;162908;Odomzo;200 mg;kapseli, kova;30 x 1;kpl;;sonidegibi;;1;0;1;1;
