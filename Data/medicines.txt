@@ -1394,7 +1394,7 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 033138;033138;110444;Targiniq;10 mg / 5 mg;depottabletti;28;kpl;;oksikodoni ja naloksoni;1701;1;0;1;1;
 033149;033149;110449;Targiniq;10 mg / 5 mg;depottabletti;98;kpl;;oksikodoni ja naloksoni;1701;1;0;1;1;
 033172;033172;110455;Targiniq;20 mg / 10 mg;depottabletti;28;kpl;;oksikodoni ja naloksoni;1702;1;0;1;1;
-033179;033179;103195;PLUSET vet;500 IU / 500 IU;injektiokuiva-aine ja liuotin, liuosta varten;2 x 10 ml;ml;;follicle stimulating hormone-pituitary;;0;1;1;1;
+033179;033179;103195;PLUSET vet;500 IU / 500 IU;injektiokuiva-aine ja liuotin, liuosta varten;2 x 10 ml kuiva-aine + 21 ml liuotin;ml;;follicle stimulating hormone-pituitary;;0;1;1;1;
 033184;033184;110460;Targiniq;20 mg / 10 mg;depottabletti;98;kpl;;oksikodoni ja naloksoni;1702;1;0;1;1;
 033209;033209;709;Isopto-Maxidex;1 mg/ml;silmätipat;5 ml;ml;;deksametasoni;;1;0;0;1;
 033234;033234;163346;Innovair;200 / 6 mikrog / annos;inhalaatiosumute, liuos;120 annosta;annosta;;formoteroli ja beklometasoni;2771;1;0;1;1;
@@ -4245,7 +4245,7 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 116483;070798;7261;Miranax;550 mg;tabletti, kalvopäällysteinen;30;kpl;;naprokseeni;2064;1;0;1;0;
 116634;116634;9724;Iomeron;350 mg I/ml;injektioneste, liuos;10 x 50 ml;ml;;jomeproli;;1;0;1;1;
 116669;116669;193894;Exelon;13.3 mg / 24 tuntia;depotlaastari;90;kpl;;rivastigmiini;1687;1;0;1;1;
-116694;116694;109493;Toviaz;4 mg;depottabletti;84;kpl;;fesoterodiini;2514;1;0;1;1;2027-01-08
+116694;116694;109493;Toviaz;4 mg;depottabletti;84;kpl;;fesoterodiini;2514;1;0;1;1;2027-01-07
 116705;116705;82826;Toviaz;4 mg;depottabletti;28;kpl;;fesoterodiini;2514;1;0;1;1;
 116716;116716;82831;Toviaz;8 mg;depottabletti;28;kpl;;fesoterodiini;2515;1;0;1;1;
 116727;116727;109494;Toviaz;8 mg;depottabletti;84;kpl;;fesoterodiini;2515;1;0;1;1;
@@ -10787,6 +10787,7 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 518332;518332;11769;Cerazette;75 mikrog;tabletti, kalvopäällysteinen;3 x 28;kpl;;desogestreeli;1225;1;0;1;1;
 518386;518386;212189;Ibulinecaps;400 mg;kapseli, pehmeä;30;kpl;;ibuprofeeni;0292;1;0;1;1;
 518479;518479;106023;Olanzapine Viatris;10 mg;tabletti, kalvopäällysteinen;100;kpl;;olantsapiini;0702;1;0;1;1;
+518501;518501;220866;Clemastine Macure;1 mg/ml;injektioneste, liuos;5 x 2 ml;ml;;klemastiini;;1;0;0;1;
 518512;518512;168978;Ropivacaine Bioq;2 mg/ml;infuusioneste, liuos, antovälineistö;250 ml;ml;;ropivakaiini;;1;0;1;1;
 518590;518590;214256;Ezetimib/Atorvastatin Krka;10 mg / 40 mg;tabletti, kalvopäällysteinen;90;kpl;;atorvastatiini ja etsetimibi;;1;0;1;1;
 518777;518777;154395;SIRTURO;100 mg;tabletti;188;kpl;;bedakiliini;;1;0;1;1;
