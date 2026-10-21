@@ -2122,7 +2122,7 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 055073;055073;99481;Myfenax;250 mg;kapseli, kova;100;kpl;;mykofenolihappo;1067;1;0;1;1;
 055084;055084;99477;Myfenax;500 mg;tabletti, kalvopäällysteinen;50;kpl;;mykofenolihappo;1068;1;0;1;1;
 055164;055164;107023;Vigamox;5 mg/ml;silmätipat, liuos;5 ml;ml;;moksifloksasiini;;1;0;1;1;
-055240;055240;196798;Skyrizi;150 mg;injektioneste, liuos, esitäytetty ruisku;1 ml;ml;Injektioruisku;risankitsumabi;;1;0;1;1;
+055240;055240;196798;Skyrizi;150 mg;injektioneste, liuos, esitäytetty ruisku;1 ml;ml;;risankitsumabi;;1;0;1;1;
 055243;055243;181363;Tadalafil Ratiopharm;10 mg;tabletti, kalvopäällysteinen;12;kpl;;tadalafiili;0893;1;0;1;1;
 055322;055322;202870;Clonidine Macure;150 mikrog/ml;injektioneste, liuos;5 x 1 ml;ml;;klonidiini;1453;1;0;1;1;
 055332;055332;65806;Neupro;2 mg / 24 tuntia;depotlaastari;28;kpl;;rotigotiini;2932;1;0;1;1;
