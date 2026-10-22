@@ -6369,6 +6369,7 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 188058;188058;24174;Caelyx Pegylated Liposomal;2 mg/ml;infuusiokonsentraatti, liuosta varten;25 ml;ml;;doksorubisiini;2235;1;0;1;1;
 188091;197896;110440;Meloxoral;1.5 mg/ml;oraalisuspensio;125 ml;ml;Mittaruisku;Meloksikaami;;0;1;1;0;
 188137;188137;143951;Flavamed;6 mg/ml;oraaliliuos;100 ml;ml;Mittalusikka;ambroksoli;1745;1;0;0;1;2026-01-15
+188143;188143;219904;Diazepam Macure;5 mg/ml;injektioneste, emulsio;10 x 2 ml;ml;;diatsepaami;;1;0;0;1;
 188154;188154;195263;Bendamustine Accord;25 mg/ml;infuusiokonsentraatti, liuosta varten;5 x 4 ml;ml;;bendamustiini;;1;0;1;1;
 188250;188250;19868;Semi-Euglucon;1.75 mg;tabletti;100;kpl;;glibenklamidi;;1;0;0;1;
 188257;144165;120345;Zolmitriptan Stada;2.5 mg;tabletti;6;kpl;;tsolmitriptaani;0329;1;0;1;0;
