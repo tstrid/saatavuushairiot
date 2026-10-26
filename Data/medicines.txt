@@ -7115,7 +7115,7 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 386617;386617;208073;Kerendia;10 mg;tabletti, kalvopäällysteinen;98;kpl;;finerenoni;2654;1;0;1;1;
 386681;386681;185563;Zoladex;3.6 mg;implantaatti;1;kpl;;gosereliini;2130;1;0;1;1;
 386693;386693;184892;Medithyrox;175 mikrog;tabletti;100;kpl;;levotyroksiininatrium;;1;0;1;1;
-386702;386702;157153;Vimizim;1 mg/ml;infuusiokonsentraatti, liuosta varten;5 ml;ml;;elosulfaasi alfa;;1;0;0;1;
+386702;386702;157153;Vimizim;1 mg/ml;infuusiokonsentraatti, liuosta varten;5 ml;ml;;elosulfaasi alfa;;1;0;1;1;
 386712;386712;175348;Kaliumklorid Sandoz;750 mg;depottabletti;250;kpl;;kaliumkloridi;1621;1;0;1;1;
 386749;386749;167767;Amlodipin/Valsartan Stada;10 mg / 160 mg;tabletti, kalvopäällysteinen;100;kpl;;valsartaani ja amlodipiini;0875;1;0;1;1;
 386762;386762;178184;Sildenafil Orion;50 mg;tabletti, kalvopäällysteinen;12 x 1;kpl;;sildenafiili;0908;1;0;1;1;
