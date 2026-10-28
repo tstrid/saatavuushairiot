@@ -3478,7 +3478,7 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 092105;092105;99894;Sumatriptan Teva;50 mg;tabletti, kalvopäällysteinen;6;kpl;;sumatriptaani;0328;1;0;1;1;
 092176;092176;118635;Esomeprazol Krka;20 mg;enterokapseli, kova;14;kpl;;esomepratsoli;0558;1;0;1;1;
 092188;092188;118637;Esomeprazol Krka;20 mg;enterokapseli, kova;28;kpl;;esomepratsoli;0558;1;0;1;1;
-092191;092191;105441;Airapy;100 %;lääkkeellinen kaasu, puristettu;5 l;l;;lääkkeellinen ilma;;1;0;1;1;
+092191;092191;105441;Airapy;100 %;lääkkeellinen kaasu, puristettu;5 l;l;;lääkkeellinen ilma;;1;0;1;1;2026-11-15
 092199;092199;118640;Esomeprazol Krka;20 mg;enterokapseli, kova;56;kpl;;esomepratsoli;0558;1;0;1;1;
 092207;092207;202653;Dovato;50 mg / 300 mg;tabletti, kalvopäällysteinen;30;kpl;;lamivudiini ja dolutegraviiri;2330;1;0;0;1;
 092210;092210;118645;Esomeprazol Krka;20 mg;enterokapseli, kova;98;kpl;;esomepratsoli;0558;1;0;1;1;
@@ -7487,7 +7487,7 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 400168;400168;3228;Nicorette;4 mg;lääkepurukumi;105;kpl;;nikotiini;;1;0;1;1;
 400176;400176;1040;Terramycin/LA vet;200 mg/ml;injektioneste, liuos;100 ml;ml;;Oksitetrasykliini;;0;1;1;1;
 400244;400244;162321;Ferinject;50 mg Fe / ml;Injektio-/infuusioneste, dispersio;20 ml;ml;;Rauta, parenteraaliset valmisteet;2274;1;0;1;1;
-400262;400262;93727;Airapy;100 %;lääkkeellinen kaasu, puristettu;5 l;l;;lääkkeellinen ilma;;1;0;0;1;2026-10-01
+400262;400262;93727;Airapy;100 %;lääkkeellinen kaasu, puristettu;5 l;l;;lääkkeellinen ilma;;1;0;0;1;
 400318;400318;182844;Ziextenzo;6 mg;injektioneste, liuos, esitäytetty ruisku;0.6 ml;kpl;;pegfilgrastiimi;2298;1;0;1;1;
 400347;400347;160179;Signifor;20 mg;injektiokuiva-aine ja liuotin, suspensiota varten;20 mg + 2 ml;kpl;;pasireotidi;;1;0;1;1;
 400366;400366;4767;Coldrex;;tabletti;48;kpl;;asetyylisalisyylihappo, yhdistelmävalmisteet;;1;0;0;1;
