@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-29T13:07:18.065959+00:00",
-  "fimeaSourceDate": "2026-10-29",
+  "generatedAt": "2026-10-30T13:00:20.678698+00:00",
+  "fimeaSourceDate": "2026-10-30",
   "sourceURL": "https://data.pilvi.fimea.fi/avoin-data/Perusrekisteri2026.xml",
-  "sourceSHA256": "bd7329ad3fc6b5be61df5ed021621753c05e874a685d69142c5b31ef2a516010",
+  "sourceSHA256": "021775595233cd79850e047f0b0baaded81925e0ea81e20719cb2eab0fd9847a",
   "recordCount": 13004,
   "currentRecordCount": 11777,
   "aliasRecordCount": 1227,
@@ -13,7 +13,7 @@
   "currentRecordsWithSubstitutionGroup": 7066,
   "substitutionGroupCount": 1684,
   "emptyNameCount": 0,
-  "outputByteCount": 1428184,
-  "outputSHA256": "c6eacd5b164fa447efd312471141887774c9a3c3f7b637c00c7066b127b28787",
+  "outputByteCount": 1428174,
+  "outputSHA256": "fb0302a04d0ec387c0ac049ae453dae38000c7ed6b44daeb08ef89888070fa99",
   "validationStatus": "passed"
 }

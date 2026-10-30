@@ -3978,7 +3978,7 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 107366;107366;177115;Voltaren Forte;23.2 mg/g;geeli;100 g;g;;diklofenaakki;1652;1;0;1;1;
 107371;107371;116989;Valsartore Comp;160 mg / 12.5 mg;tabletti, kalvopäällysteinen;30;kpl;;valsartaani ja diureetit;0919;1;0;0;1;
 107390;107390;165726;Lipistad;20 mg;tabletti, kalvopäällysteinen;30 x 1;kpl;;atorvastatiini;1084;1;0;1;1;
-107395;107395;216658;Vaxigrip;15 mikrog HA / 0.5 ml;injektioneste, suspensio, esitäytetty ruisku;0.5 ml;annos;Injektioruisku;influenssarokote, puhdistettu antigeeni;;1;0;0;1;2026-10-07
+107395;107395;216658;Vaxigrip;15 mikrog HA / 0.5 ml;injektioneste, suspensio, esitäytetty ruisku;0.5 ml;annos;Injektioruisku;influenssarokote, puhdistettu antigeeni;;1;0;0;1;
 107407;107407;98801;Cepesedan vet.;10 mg/ml;injektioneste, liuos;5 x 20 ml;ml;;Detomidiini;;0;1;1;1;
 107414;107414;156596;Primaspan;100 mg;enterotabletti;300;kpl;;asetyylisalisyylihappo;;1;0;1;1;
 107449;107449;174704;Credelio;450 mg;purutabletti;6;kpl;;lotilaner;;0;1;1;1;
@@ -10042,7 +10042,7 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 489874;489874;193001;Deslox;5 mg;tabletti, kalvopäällysteinen;30;kpl;;desloratadiini;0432;1;0;1;1;
 489963;489963;9200;Naramig;2.5 mg;tabletti, kalvopäällysteinen;6;kpl;;naratriptaani;1938;1;0;1;1;
 489969;489969;167258;Moxifloxacin Orion;400 mg;tabletti, kalvopäällysteinen;7;kpl;;moksifloksasiini;1441;1;0;1;1;
-490086;490086;12180;Somac;40 mg;enterotabletti;100;kpl;;pantopratsoli;0829;1;0;1;1;2026-11-01
+490086;490086;12180;Somac;40 mg;enterotabletti;100;kpl;;pantopratsoli;0829;1;0;1;1;2026-11-15
 490139;490139;188395;Ticagrelor Stada;90 mg;tabletti, kalvopäällysteinen;100 x 1;kpl;;tikagrelori;2016;1;0;1;1;
 490170;490170;198862;Ngenla;24 mg;injektioneste, liuos, esitäytetty kynä;24 mg;kpl;;somatrogoni;;1;0;1;1;
 490174;490174;171949;Etoricoxib Krka;60 mg;tabletti, kalvopäällysteinen;30;kpl;;etorikoksibi;0307;1;0;1;1;
