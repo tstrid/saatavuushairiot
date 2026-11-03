@@ -34,13 +34,16 @@ jobs:
       - name: Generate registry
         run: python3 Scripts/generate_medicine_registry.py
 
+      - name: Generate unified catalog
+        run: python3 Scripts/generate_catalog.py
+
       - name: Run generator tests
         run: python3 -m unittest discover -s Scripts/tests -v
 
       - name: Commit changed registry
         shell: bash
         run: |
-          git add Data/medicines.txt Data/medicines-metadata.json
+          git add Data/medicines.txt Data/medicines-metadata.json Data/catalog-v2.json
 
           if git diff --cached --quiet; then
             echo "Fimea data has not changed."

@@ -1,0 +1,42 @@
+name: Update Kela reimbursements
+
+on:
+  schedule:
+    - cron: '43 6 * * *'
+  workflow_dispatch:
+  push:
+    paths:
+      - 'Scripts/generate_reimbursements.py'
+      - 'Scripts/generate_catalog.py'
+      - 'Scripts/tests/test_catalog.py'
+      - 'Scripts/tests/test_reimbursements.py'
+      - '.github/workflows/update-reimbursements.yml'
+
+permissions:
+  contents: write
+
+# Serialize with the Fimea publisher to avoid competing pushes.
+concurrency:
+  group: medicine-registry-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+      - run: python3 -m unittest discover -s Scripts/tests -v
+      - run: python3 Scripts/generate_reimbursements.py
+      - run: python3 Scripts/generate_catalog.py
+      - name: Publish validated feed
+        run: |
+          git add Data/reimbursements-v1.json Data/catalog-v2.json
+          if git diff --cached --quiet; then exit 0; fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Update Kela reimbursements'
+          git push
