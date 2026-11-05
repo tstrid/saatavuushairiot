@@ -4767,7 +4767,7 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 135477;135477;191679;Abraxane;5 mg/ml;infuusiokuiva-aine, dispersiota varten;100 mg;kpl;;paklitakseli;1963;1;0;0;1;2026-02-15
 135518;135518;98577;Atipam vet.;5.0 mg/ml;injektioneste, liuos;10 ml;ml;;Atipametsoli;;0;1;1;1;
 135596;135596;225531;Kerendia;10 mg;tabletti, kalvopäällysteinen;98;kpl;;finerenoni;2654;1;0;1;1;
-135652;135652;196914;Noradrenaline Sintetica;1 mg/ml;infuusiokonsentraatti, liuosta varten;10 x 5 ml;ml;;noradrenaliini;1764;1;0;1;1;
+135652;135652;196914;Noradrenaline Sintetica;1 mg/ml;infuusiokonsentraatti, liuosta varten;10 x 5 ml;ml;;noradrenaliini;1764;1;0;1;1;2026-11-05
 135654;135654;172797;Afstyla;1500 IU;injektiokuiva-aine ja liuotin, liuosta varten;1500 IU + 5 ml;kpl;;hyytymistekijä VIII;;1;0;1;1;
 135766;135766;196610;Icatibant Avansor;30 mg;injektioneste, liuos, esitäytetty ruisku;3 ml;ml;;ikatibantti;2408;1;0;0;1;2026-07-15
 135767;135767;217808;Amlodipine ratiopharm;5 mg;tabletti;100;kpl;;amlodipiini;0565;1;0;0;1;
@@ -10165,7 +10165,7 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 494648;494648;146723;Elvanse;50 mg;kapseli, kova;30;kpl;;lisdeksamfetamiini;2397;1;0;1;1;
 494666;494666;7665;Estrofem;2 mg;tabletti, kalvopäällysteinen;28;kpl;;estradioli;0879;1;0;1;1;
 494701;494701;103272;Clindamycin Fresenius Kabi;150 mg/ml;injektioneste, liuos/infuusiokonsentraatti, liuosta varten;5 x 2 ml;ml;;klindamysiini;1860;1;0;0;1;2026-05-01
-494718;494718;184088;Noradrenaline Sintetica;0.2 mg/ml;infuusioneste, liuos;50 ml;ml;;noradrenaliini;;1;0;1;1;
+494718;494718;184088;Noradrenaline Sintetica;0.2 mg/ml;infuusioneste, liuos;50 ml;ml;;noradrenaliini;;1;0;1;1;2026-11-05
 494816;494816;204702;Desmopressin STADA;120 mikrog;resoribletti;100;kpl;;desmopressiini;2768;1;0;1;1;
 494861;494861;152104;Triplixam;10 mg / 2.5 mg / 5 mg;tabletti, kalvopäällysteinen;30;kpl;;perindopriili, amlodipiini ja indapamidi;;1;0;1;1;
 494885;494885;151779;PROCYSBI;75 mg;enterokapseli, kova;250;kpl;;merkaptamiini;;1;0;0;1;2026-11-01
@@ -10703,7 +10703,7 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 515661;515661;193390;Sibnayal;24 mEq;depotrakeet;1 x 60;kpl;;kalium (eri suolojen yhdistelmävalmisteet);;1;0;0;1;2025-12-01
 515666;515666;520;Terracort;;voide;15 g;g;;hydrokortisoni ja antibiootit;;1;0;1;1;
 515787;515787;120200;Daisynelle;150 mikrog / 30 mikrog;tabletti;3 x 21;kpl;;desogestreeli ja etinyyliestradioli;;1;0;1;1;
-515811;515811;184099;Noradrenaline Sintetica;0.1 mg/ml;infuusioneste, liuos;50 ml;ml;;noradrenaliini;;1;0;1;1;
+515811;515811;184099;Noradrenaline Sintetica;0.1 mg/ml;infuusioneste, liuos;50 ml;ml;;noradrenaliini;;1;0;1;1;2026-11-05
 515827;515827;165034;Aripiprazole Accord;10 mg;tabletti;28 x 1;kpl;;aripipratsoli;0728;1;0;0;1;2024-01-15
 515832;515832;187402;Aklief;50 mikrog/g;emulsiovoide;75 g;g;;trifaroteeni;;1;0;1;1;
 515860;515860;215747;TOBI Podhaler;28 mg;inhalaatiojauhe, kapseli, kova;224 (4 x 56);annosta;;tobramysiini;;1;0;0;1;2024-12-18

@@ -1,5 +1,5 @@
 {
-  "fimeaSourceDate": "2026-11-04",
+  "fimeaSourceDate": "2026-11-05",
   "records": [
     {
       "atcCode": "",
@@ -106096,7 +106096,7 @@
       "isOnMarket": true,
       "isVeterinaryMedicine": false,
       "kind": "medicine",
-      "marketRemovalDate": "",
+      "marketRemovalDate": "2026-11-05",
       "name": "Noradrenaline Sintetica",
       "number": "135652",
       "packageIdentifier": "196914",
@@ -225402,7 +225402,7 @@
       "isOnMarket": true,
       "isVeterinaryMedicine": false,
       "kind": "medicine",
-      "marketRemovalDate": "",
+      "marketRemovalDate": "2026-11-05",
       "name": "Noradrenaline Sintetica",
       "number": "494718",
       "packageIdentifier": "184088",
@@ -237304,7 +237304,7 @@
       "isOnMarket": true,
       "isVeterinaryMedicine": false,
       "kind": "medicine",
-      "marketRemovalDate": "",
+      "marketRemovalDate": "2026-11-05",
       "name": "Noradrenaline Sintetica",
       "number": "515811",
       "packageIdentifier": "184099",
