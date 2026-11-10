@@ -1,5 +1,5 @@
 {
-  "fimeaSourceDate": "2026-11-07",
+  "fimeaSourceDate": "2026-11-10",
   "records": [
     {
       "atcCode": "",
@@ -56725,7 +56725,7 @@
       "identifierType": "1",
       "isCurrent": true,
       "isHumanMedicine": false,
-      "isOnMarket": false,
+      "isOnMarket": true,
       "isVeterinaryMedicine": true,
       "kind": "medicine",
       "marketRemovalDate": "",
@@ -96237,7 +96237,7 @@
       "identifierType": "1",
       "isCurrent": true,
       "isHumanMedicine": false,
-      "isOnMarket": false,
+      "isOnMarket": true,
       "isVeterinaryMedicine": true,
       "kind": "medicine",
       "marketRemovalDate": "",
@@ -186252,28 +186252,6 @@
       "strength": "100 mg",
       "substitutionGroup": "2230",
       "unit": "kpl"
-    },
-    {
-      "atcCode": "Rabbit haemmorhagic disease virus vaccine",
-      "currentNumber": "433345",
-      "device": "",
-      "dosageForm": "injektioneste, emulsio",
-      "identifierType": "1",
-      "isCurrent": true,
-      "isHumanMedicine": false,
-      "isOnMarket": false,
-      "isVeterinaryMedicine": true,
-      "kind": "medicine",
-      "marketRemovalDate": "2024-12-20",
-      "name": "Eravac",
-      "number": "433345",
-      "packageIdentifier": "183735",
-      "packageSize": "10 x 1 annos (0.5 ml)",
-      "prescriptionStatus": "",
-      "shortageCovered": true,
-      "strength": "",
-      "substitutionGroup": "",
-      "unit": "annos"
     },
     {
       "atcCode": "essitalopraami",
@@ -283017,7 +282995,7 @@
       "identifierType": "1",
       "isCurrent": true,
       "isHumanMedicine": false,
-      "isOnMarket": false,
+      "isOnMarket": true,
       "isVeterinaryMedicine": true,
       "kind": "medicine",
       "marketRemovalDate": "",

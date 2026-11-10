@@ -2527,7 +2527,7 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 066091;066091;153548;Tafinlar;50 mg;kapseli, kova;120;kpl;;dabrafenibi;2149;1;0;1;1;
 066111;066111;797;Caelyx Pegylated Liposomal;2 mg/ml;infuusiokonsentraatti, liuosta varten;10 ml;ml;;doksorubisiini;2235;1;0;1;1;
 066195;454291;112388;Melovem;5 mg/ml;injektioneste, liuos;100 ml;ml;;Meloksikaami;;0;1;1;0;
-066244;066244;220054;BioEquin FT;;injektioneste, suspensio;10 x 1;annosta;;Inaktivoitu hevosen influenssavirus -rokote + inaktivoitu klostridirokote;;0;1;0;1;
+066244;066244;220054;BioEquin FT;;injektioneste, suspensio;10 x 1;annosta;;Inaktivoitu hevosen influenssavirus -rokote + inaktivoitu klostridirokote;;0;1;1;1;
 066292;066292;157155;Efavirenz Aurobindo;600 mg;tabletti, kalvopäällysteinen;30;kpl;;efavirentsi;1061;1;0;1;1;
 066304;066304;189941;Cimzia;200 mg;injektioneste, liuos, esitäytetty kynä;2 x 200 mg;kpl;;sertolitsumabipegoli;2492;1;0;1;1;
 066372;066372;197701;Kerendia;20 mg;tabletti, kalvopäällysteinen;98;kpl;;finerenoni;2655;1;0;1;1;
@@ -4318,7 +4318,7 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 118810;118810;5058;Clotam;100 mg;kapseli, kova;100;kpl;;tolfenaamihappo;;1;0;0;1;
 118824;118824;185116;Eprinex vet.;5 mg/ml;kertavaleluliuos;2.5 l;ml;;Eprinomektiini;;0;1;1;1;
 118977;118977;84832;Nicorette;25 mg / 16 tuntia;depotlaastari;14;kpl;;nikotiini;;1;0;1;1;
-118978;118978;222455;Ketiva Vet;150 mg/ml;injektioneste, liuos;100 ml;ml;;Ketoprofeeni;;0;1;0;1;
+118978;118978;222455;Ketiva Vet;150 mg/ml;injektioneste, liuos;100 ml;ml;;Ketoprofeeni;;0;1;1;1;
 119031;119031;83892;Vectibix;20 mg/ml;infuusiokonsentraatti, liuosta varten;5 ml;ml;;panitumumabi;1413;1;0;1;1;
 119053;119053;83894;Vectibix;20 mg/ml;infuusiokonsentraatti, liuosta varten;20 ml;ml;;panitumumabi;1413;1;0;1;1;
 119178;119178;171900;Voltaren Emulgel;11.6 mg/g;geeli;100 g;g;;diklofenaakki;1011;1;0;1;1;
@@ -8392,7 +8392,6 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 433189;433189;142752;Rivastor;4.6 mg / 24 tuntia;depotlaastari;30;kpl;;rivastigmiini;1688;1;0;1;1;
 433250;433250;9425;Comtess;200 mg;tabletti, kalvopäällysteinen;100;kpl;;entakaponi;1073;1;0;1;1;2026-11-15
 433256;433256;195161;Thiotepa Riemser;100 mg;kuiva-aine välikonsentraatiksi infuusionestettä varten, liuos;100 mg;kpl;;tiotepa;2230;1;0;1;1;
-433345;433345;183735;Eravac;;injektioneste, emulsio;10 x 1 annos (0.5 ml);annos;;Rabbit haemmorhagic disease virus vaccine;;0;1;0;1;2024-12-20
 433471;433471;127933;Escitalopram Orion;20 mg;tabletti, kalvopäällysteinen;100;kpl;;essitalopraami;1127;1;0;1;1;
 433520;433520;146125;AviPro AE;;suspensio juomaveteen sekoitettavaksi;10 x 1000 annosta;annosta;;Avian encephalomyelitis virus vaccine;;0;1;1;1;
 433533;433533;202127;Injexate;12.5 mg;injektioneste, liuos, esitäytetty injektori;0.25 ml;ml;;metotreksaatti;;1;0;0;1;2026-11-01
@@ -12772,7 +12771,7 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 590710;590710;193854;Fingolimod Krka;0.5 mg;kapseli, kova;28;kpl;;fingolimodi;1501;1;0;1;1;
 590822;590822;143947;Precosa;250 mg;kapseli, kova;20;kpl;;saccharomyces boulardii;2043;1;0;1;1;
 590869;590869;2522;Lomudal;20 mg/ml;silmätipat, liuos;5 ml;ml;;natriumkromoglikaatti;0454;1;0;1;1;
-590902;590902;220048;BioEquin F;;injektioneste, suspensio;10 x 1;annos;;Hevosen influenssavirus -rokote;;0;1;0;1;
+590902;590902;220048;BioEquin F;;injektioneste, suspensio;10 x 1;annos;;Hevosen influenssavirus -rokote;;0;1;1;1;
 590919;590919;38073;Metalyse;10000 U;injektiokuiva-aine ja liuotin, liuosta varten;10000 U (50 mg) + 10 ml;kpl;;tenekteplaasi;3035;1;0;1;1;
 590925;590925;174500;Ezetimibe Orion;10 mg;tabletti;100;kpl;;etsetimibi;1408;1;0;1;1;
 590998;590998;137124;Ameluz;78 mg/g;geeli;2 g;g;;aminolevuliinihappo;;1;0;1;1;
