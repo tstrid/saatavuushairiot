@@ -2756,7 +2756,7 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 072122;165603;123076;Saizen;8 mg/ml;injektioneste, liuos, sylinteriampulli;5 x 1.5 ml;kpl;Injektioruisku;somatropiini;;1;0;1;0;
 072132;072132;3334;Domosedan vet;10 mg/ml;injektioneste, liuos;5 ml;ml;;Detomidiini;;0;1;1;1;
 072133;195583;123077;Saizen;8 mg/ml;injektioneste, liuos, sylinteriampulli;2.5 ml;kpl;Injektioruisku;somatropiini;;1;0;1;0;
-072162;072162;215903;Ogsiveo;150 mg;tabletti, kalvopäällysteinen;56;kpl;;nirogasestaatti;;1;0;0;1;
+072162;072162;215903;Ogsiveo;150 mg;tabletti, kalvopäällysteinen;56;kpl;;nirogasestaatti;;1;0;1;1;
 072187;072187;181792;Betaklav;875 mg / 125 mg;tabletti, kalvopäällysteinen;14;kpl;;amoksisilliini ja beetalaktamaasin estäjä;0206;1;0;1;1;
 072226;072226;207699;Mirtazapin Sandoz;15 mg;tabletti, kalvopäällysteinen;100;kpl;;mirtatsapiini;0544;1;0;0;1;
 072298;072298;7520;Entocort;2 mg;tabletti ja liuotin peräruiskesuspensiota varten;7 x (1 + 115 ml);kpl;;budesonidi;;1;0;1;1;
@@ -11975,7 +11975,7 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 561399;561399;7252;Zipzoc;200 mg/g;voidesukka;5 x 1;kpl;;sinkkiside ilman muita lääkeaineita;;1;0;0;1;2025-10-01
 561407;561407;7253;Zipzoc;200 mg/g;voidesukka;10 x 1;kpl;;sinkkiside ilman muita lääkeaineita;;1;0;1;1;
 561452;561452;182743;Relvar Ellipta;184 mikrog / 22 mikrog / annos;inhalaatiojauhe, annosteltu;30 annosta;annosta;Inhalaatiolaite;vilanteroli ja flutikasonifuroaatti;2044;1;0;1;1;
-561521;561521;216257;Efluelda;60 mikrog HA / 0.5 ml;injektioneste, suspensio, esitäytetty ruisku;0.5 ml;kpl;Injektioruisku;influenssarokote, puhdistettu antigeeni;;1;0;1;1;
+561521;561521;216257;Efluelda;60 mikrog HA / 0.5 ml;injektioneste, suspensio, esitäytetty ruisku;0.5 ml;kpl;Injektioruisku;influenssarokote, puhdistettu antigeeni;;1;0;0;1;2026-11-10
 561555;561555;12517;Tractocile;6.75 mg / 0.9 ml;injektioneste, liuos;6.75 mg;kpl;;atosibaani;1769;1;0;1;1;
 561563;561563;12515;Tractocile;37.5 mg / 5 ml;infuusiokonsentraatti, liuosta varten;37.5 mg;kpl;;atosibaani;1512;1;0;1;1;
 561585;561585;182500;Loratadin Ratiopharm;10 mg;tabletti;100;kpl;;loratadiini;0430;1;0;1;1;
