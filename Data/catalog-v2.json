@@ -1,5 +1,5 @@
 {
-  "fimeaSourceDate": "2026-11-11",
+  "fimeaSourceDate": "2026-11-12",
   "records": [
     {
       "atcCode": "",
@@ -271614,7 +271614,7 @@
       "unit": "kpl"
     },
     {
-      "atcCode": "B1-vitamiinin ja B6- ja/tai B12-vitamiinin yhdistelmävalmisteet",
+      "atcCode": "",
       "currentNumber": "572305",
       "device": "",
       "dosageForm": "tabletti, päällystetty",
@@ -271625,15 +271625,15 @@
       "isVeterinaryMedicine": false,
       "kind": "1",
       "marketRemovalDate": "",
-      "name": "Neurobion forte",
+      "name": "NEUROBION FORTE",
       "number": "572305",
-      "packageIdentifier": "310",
-      "packageSize": "20",
+      "packageIdentifier": "",
+      "packageSize": "20 fol",
       "prescriptionStatus": "0",
       "shortageCovered": true,
       "strength": "",
       "substitutionGroup": "",
-      "unit": "kpl"
+      "unit": ""
     },
     {
       "atcCode": "B1-vitamiinin ja B6- ja/tai B12-vitamiinin yhdistelmävalmisteet",

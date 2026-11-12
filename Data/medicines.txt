@@ -12256,7 +12256,6 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 572271;572271;232;Neurobion;;tabletti;20;kpl;;B1-vitamiinin ja B6- ja/tai B12-vitamiinin yhdistelmävalmisteet;;1;0;0;1;
 572280;453644;155145;Metforem;750 mg;depottabletti;100;kpl;;metformiini;;1;0;1;0;
 572289;572289;233;Neurobion;;tabletti;100;kpl;;B1-vitamiinin ja B6- ja/tai B12-vitamiinin yhdistelmävalmisteet;;1;0;0;1;
-572305;572305;310;Neurobion forte;;tabletti, päällystetty;20;kpl;;B1-vitamiinin ja B6- ja/tai B12-vitamiinin yhdistelmävalmisteet;;1;0;1;1;
 572313;572313;311;Neurobion forte;;tabletti, päällystetty;100;kpl;;B1-vitamiinin ja B6- ja/tai B12-vitamiinin yhdistelmävalmisteet;;1;0;1;1;
 572322;572322;212879;Cefuroxim Navamedic;750 mg;injektio-/infuusiokuiva-aine liuosta varten;10 x 750 mg;mg;;kefuroksiimi;1775;1;0;1;1;
 572339;572339;20490;Dotarem;279.3 mg/ml;injektioneste, liuos;25 x 20 ml;ml;;gadoteerihappo;;1;0;1;1;
