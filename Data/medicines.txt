@@ -8520,7 +8520,7 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 437610;437610;114381;Sildenafil Sandoz;100 mg;tabletti;28;kpl;;sildenafiili;0920;1;0;1;1;2027-03-15
 437631;437631;137141;Levetiracetam Orion;250 mg;tabletti, kalvopäällysteinen;50;kpl;;levetirasetaami;;1;0;1;1;
 437641;437641;185892;Levetiracetam 1A Farma;100 mg/ml;oraaliliuos;300 ml;ml;;levetirasetaami;;1;0;1;1;
-437717;437717;216660;Vaxigrip;15 mikrog HA / 0.5 ml;injektioneste, suspensio, esitäytetty ruisku;10 x 0.5 ml;annos;Injektioruisku;influenssarokote, puhdistettu antigeeni;;1;0;1;1;
+437717;437717;216660;Vaxigrip;15 mikrog HA / 0.5 ml;injektioneste, suspensio, esitäytetty ruisku;10 x 0.5 ml;annos;Injektioruisku;influenssarokote, puhdistettu antigeeni;;1;0;0;1;2026-11-11
 437816;437816;218441;Maxalt;10 mg;tabletti;6;kpl;;ritsatriptaani;1254;1;0;1;1;
 437817;437817;176541;Pemetrexed Norameda;500 mg;kuiva-aine välikonsentraatiksi infuusionestettä varten, liuos;500 mg;kpl;;pemetreksedi;;1;0;0;1;2024-09-13
 437922;437922;186697;Nucala;100 mg;injektioneste, liuos, esitäytetty kynä;100 mg;kpl;;mepolitsumabi;2367;1;0;1;1;
