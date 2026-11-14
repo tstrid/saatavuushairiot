@@ -6487,7 +6487,7 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 192364;192364;202364;Plerixafor Accord;20 mg/ml;injektioneste, liuos;1.2 ml;ml;;pleriksafori;1511;1;0;1;1;
 192372;192372;186694;Tavlesse;100 mg;tabletti, kalvopäällysteinen;60;kpl;;fostamatinibi;;1;0;1;1;
 192444;192444;185;Triptyl;50 mg;tabletti, kalvopäällysteinen;100;kpl;;amitriptyliini;;1;0;1;1;
-192454;192454;171243;Nasment;1 mg/ml;nenäsumute, liuos;10 ml;ml;;ksylometatsoliini;;1;0;1;1;
+192454;192454;171243;Nasolin Menthol;1 mg/ml;nenäsumute, liuos;10 ml;ml;;ksylometatsoliini;;1;0;1;1;
 192482;113734;180308;Baclofen Sintetica;0.05 mg/ml;injektioneste, liuos;5 x 1 ml;ml;;baklofeeni;;1;0;1;0;
 192566;192566;146624;Binocrit;30000 IU / 0.75 ml;injektioneste, liuos, esitäytetty ruisku;0.75 ml;kpl;;epoetiini;2942;1;0;1;1;
 192826;188058;24174;Caelyx Pegylated Liposomal;2 mg/ml;infuusiokonsentraatti, liuosta varten;25 ml;ml;;doksorubisiini;2235;1;0;1;0;
@@ -10014,7 +10014,7 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 489343;489343;169281;Palonosetron Macure;250 mikrog;injektioneste, liuos;5 x 5 ml;kpl;;palonosetroni;1509;1;0;1;1;
 489349;489349;169734;Lamictal;5 mg;purutabletti/dispergoituva tabletti;60;kpl;;lamotrigiini;;1;0;1;1;
 489459;489459;130076;Ovitrelle;250 mikrog;injektioneste, liuos, esitäytetty kynä;0.5 ml;kpl;;koriogonadotropiini alfa;2010;1;0;1;1;
-489534;489534;154527;Novoeight;1000 IU;injektiokuiva-aine ja liuotin, liuosta varten;1000 IU + 4 ml;kpl;;hyytymistekijä VIII;;1;0;1;1;
+489534;489534;154527;Novoeight;1000 IU;injektiokuiva-aine ja liuotin, liuosta varten;1000 IU + 4 ml;kpl;;hyytymistekijä VIII;;1;0;1;1;2027-01-15
 489551;489551;134360;Candesartan Krka;16 mg;tabletti;98;kpl;;kandesartaani;1184;1;0;1;1;
 489596;489596;196000;Lenalidomid Avansor;25 mg;kapseli, kova;21;kpl;;lenalidomidi;2146;1;0;0;1;2024-07-10
 489609;489609;5927;Voltaren Rapid;50 mg;tabletti, päällystetty;30;kpl;;diklofenaakki;0284;1;0;1;1;
@@ -10027,7 +10027,7 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 489874;489874;193001;Deslox;5 mg;tabletti, kalvopäällysteinen;30;kpl;;desloratadiini;0432;1;0;1;1;
 489963;489963;9200;Naramig;2.5 mg;tabletti, kalvopäällysteinen;6;kpl;;naratriptaani;1938;1;0;1;1;
 489969;489969;167258;Moxifloxacin Orion;400 mg;tabletti, kalvopäällysteinen;7;kpl;;moksifloksasiini;1441;1;0;1;1;
-490086;490086;12180;Somac;40 mg;enterotabletti;100;kpl;;pantopratsoli;0829;1;0;1;1;2026-11-15
+490086;490086;12180;Somac;40 mg;enterotabletti;100;kpl;;pantopratsoli;0829;1;0;1;1;2026-12-01
 490139;490139;188395;Ticagrelor Stada;90 mg;tabletti, kalvopäällysteinen;100 x 1;kpl;;tikagrelori;2016;1;0;1;1;
 490170;490170;198862;Ngenla;24 mg;injektioneste, liuos, esitäytetty kynä;24 mg;kpl;;somatrogoni;;1;0;1;1;
 490174;490174;171949;Etoricoxib Krka;60 mg;tabletti, kalvopäällysteinen;30;kpl;;etorikoksibi;0307;1;0;1;1;
@@ -10368,7 +10368,7 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 501960;501960;96956;Reconcile;32 mg;purutabletti;30;kpl;;fluoxetine;;0;1;1;1;
 502080;502080;145981;Levetiracetam Accord;750 mg;tabletti, kalvopäällysteinen;100;kpl;;levetirasetaami;;1;0;1;1;
 502082;502082;140378;Livostin;0.5 mg/ml;nenäsumute, suspensio;15 ml;ml;Annospumppu;levokabastiini;2903;1;0;1;1;
-502125;502125;154529;Novoeight;2000 IU;injektiokuiva-aine ja liuotin, liuosta varten;2000 IU + 4 ml;kpl;;hyytymistekijä VIII;;1;0;1;1;
+502125;502125;154529;Novoeight;2000 IU;injektiokuiva-aine ja liuotin, liuosta varten;2000 IU + 4 ml;kpl;;hyytymistekijä VIII;;1;0;1;1;2027-01-15
 502144;502144;82688;Sertralin ratiopharm;50 mg;tabletti, kalvopäällysteinen;30;kpl;;sertraliini;0593;1;0;1;1;
 502182;502182;159759;Panadol;24 mg/ml;oraalisuspensio;200 ml;ml;Mittaruisku;parasetamoli;;1;0;1;1;
 502187;426573;1967;Locoid;0.1 %;liuos iholle;100 ml;ml;;hydrokortisonibutyraatti;;1;0;1;0;

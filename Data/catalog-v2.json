@@ -1,5 +1,5 @@
 {
-  "fimeaSourceDate": "2026-11-13",
+  "fimeaSourceDate": "2026-11-14",
   "records": [
     {
       "atcCode": "",
@@ -144113,7 +144113,7 @@
       "isVeterinaryMedicine": false,
       "kind": "1",
       "marketRemovalDate": "",
-      "name": "Nasment",
+      "name": "Nasolin Menthol",
       "number": "192454",
       "packageIdentifier": "171243",
       "packageSize": "10 ml",
@@ -222190,7 +222190,7 @@
       "isOnMarket": true,
       "isVeterinaryMedicine": false,
       "kind": "1",
-      "marketRemovalDate": "",
+      "marketRemovalDate": "2027-01-15",
       "name": "Novoeight",
       "number": "489534",
       "packageIdentifier": "154527",
@@ -222476,7 +222476,7 @@
       "isOnMarket": true,
       "isVeterinaryMedicine": false,
       "kind": "1",
-      "marketRemovalDate": "2026-11-15",
+      "marketRemovalDate": "2026-12-01",
       "name": "Somac",
       "number": "490086",
       "packageIdentifier": "12180",
@@ -230000,7 +230000,7 @@
       "isOnMarket": true,
       "isVeterinaryMedicine": false,
       "kind": "1",
-      "marketRemovalDate": "",
+      "marketRemovalDate": "2027-01-15",
       "name": "Novoeight",
       "number": "502125",
       "packageIdentifier": "154529",
