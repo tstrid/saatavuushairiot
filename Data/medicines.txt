@@ -1050,6 +1050,7 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 024248;024248;157304;Mirtazapin Orion;45 mg;tabletti, kalvopäällysteinen;98;kpl;;mirtatsapiini;0545;1;0;1;1;
 024263;478402;53324;Tamsumin;0.4 mg;säädellysti vapauttava kapseli, kova;90;kpl;;tamsulosiini;0513;1;0;1;0;
 024269;024269;44197;Moxonidin Stada;0.2 mg;tabletti, kalvopäällysteinen;100;kpl;;moksonidiini;0052;1;0;1;1;
+024276;024276;76571;Sertralin Krka;100 mg;tabletti, kalvopäällysteinen;100 x 1;kpl;;sertraliini;0594;1;0;0;1;2025-07-15
 024307;024307;219769;Alutard SQ 553 Koira, epiteelit;;injektioneste, suspensio;4 x 5 ml;ml;;eläimet;;1;0;1;1;
 024310;024310;157294;Mirtazapin Orion;15 mg;tabletti, kalvopäällysteinen;28;kpl;;mirtatsapiini;0544;1;0;1;1;
 024315;024315;17846;Femoston 1/10;;tabletti, kalvopäällysteinen;3 x 28;kpl;;dydrogesteroni ja estrogeeni;;1;0;1;1;
@@ -1057,6 +1058,7 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 024333;024333;157300;Mirtazapin Orion;30 mg;tabletti, kalvopäällysteinen;98;kpl;;mirtatsapiini;0502;1;0;1;1;
 024344;024344;157302;Mirtazapin Orion;45 mg;tabletti, kalvopäällysteinen;28;kpl;;mirtatsapiini;0545;1;0;1;1;
 024346;024346;157298;Mirtazapin Orion;30 mg;tabletti, kalvopäällysteinen;28;kpl;;mirtatsapiini;0502;1;0;1;1;
+024365;024365;63827;Sertralin Krka;100 mg;tabletti, kalvopäällysteinen;30;kpl;;sertraliini;0594;1;0;0;1;2025-07-15
 024366;024366;76568;Sertralin Krka;50 mg;tabletti, kalvopäällysteinen;100 x 1;kpl;;sertraliini;0593;1;0;0;1;2025-07-15
 024449;024449;87182;Soluprick SQ Hyönteismyrkyt;;liuos ihopistotestiin;2 ml 100 mikrog;kpl;;Allergiatestit;;1;0;1;1;
 024478;024478;68966;Soluprick Sq Epiteeliuutteet;;liuos ihopistotestiin;2 ml 10 HEP;kpl;;Allergiatestit;;1;0;1;1;
@@ -8016,7 +8018,7 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 420497;420497;5306;Fragmin;25000 IU/ml;injektioneste, liuos;10 x 0.2 ml;ml;;daltepariini;;1;0;1;1;
 420510;420510;8086;Amoxin;100 mg/ml;jauhe oraalisuspensiota varten;60 ml;ml;;amoksisilliini;0191;1;0;1;1;
 420516;420516;179628;Lidor vet.;20 mg/ml;injektioneste, liuos;50 ml;ml;;Lidokaiini;;0;1;1;1;
-420551;420551;154530;Novoeight;3000 IU;injektiokuiva-aine ja liuotin, liuosta varten;3000 IU + 4 ml;kpl;;hyytymistekijä VIII;;1;0;1;1;
+420551;420551;154530;Novoeight;3000 IU;injektiokuiva-aine ja liuotin, liuosta varten;3000 IU + 4 ml;kpl;;hyytymistekijä VIII;;1;0;1;1;2027-01-15
 420557;420557;214272;Rybelsus;4 mg;tabletti;30;kpl;;semaglutidi;;1;0;1;1;
 420601;420601;177764;Botox;100 Allergan-yksikköä;injektiokuiva-aine, liuosta varten;100 U;kpl;;botuliinitoksiini;1737;1;0;1;1;
 420630;420630;162552;Digoxin Orion Mite;0.0625 mg;tabletti;90;kpl;;digoksiini;;1;0;1;1;
@@ -11161,6 +11163,7 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 532599;532599;144027;Eylea;40 mg/ml;injektioneste, liuos;100 mikrol;kpl;;aflibersepti;2365;1;0;1;1;
 532624;532624;159216;Flecainide Orion;100 mg;depotkapseli, kova;30;kpl;;flekainidi;;1;0;1;1;
 532676;532676;185309;Ketorolac S.A.L.F.;30 mg/ml;injektioneste, liuos;5 x 1 ml;ml;;ketorolaakki;2216;1;0;1;1;
+532758;532758;63823;Sertralin Krka;100 mg;tabletti, kalvopäällysteinen;100;kpl;;sertraliini;0594;1;0;0;1;
 532791;532791;147234;Binocrit;2000 IU/ml;injektioneste, liuos, esitäytetty ruisku;6 x 1 ml;ml;;epoetiini;2941;1;0;1;1;
 532800;532800;9727;Iomeron;350 mg I/ml;injektioneste, liuos;10 x 200 ml;ml;;jomeproli;;1;0;1;1;
 532815;532815;188518;Azacitidine Sandoz;25 mg/ml;injektiokuiva-aine, suspensiota varten;100 mg;kpl;;atsasitidiini;2254;1;0;1;1;
