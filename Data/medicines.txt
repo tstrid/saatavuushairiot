@@ -2788,6 +2788,7 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 073224;073224;4348;Creon 10 000;;enterokapseli, kova;100;kpl;;useita entsyymejä (lipaasi, proteaasi jne.) sisältävät valmisteet;3142;1;0;1;1;
 073233;073233;71897;Wilfactin;100 IU/ml;injektiokuiva-aine ja liuotin, liuosta varten;1000 IU +10 ml;kpl;;von Willebrand -tekijä;;1;0;1;1;
 073237;073237;168802;Tolterodine Accord;4 mg;depotkapseli, kova;100;kpl;;tolterodiini;;1;0;0;1;
+073275;073275;212240;Zoonotic Influenza Vaccine Seqirus;7.5 mikrog HA / 0.5 ml;injektioneste, suspensio, esitäytetty ruisku;10 x 0.5 ml;annosta;;influenssarokote, puhdistettu antigeeni;;1;0;1;1;
 073287;073287;83952;Canidryl;20 mg;tabletti;20;kpl;;Karprofeeni;;0;1;1;1;
 073297;073297;83962;Canidryl;20 mg;tabletti;100;kpl;;Karprofeeni;;0;1;1;1;
 073306;073306;83965;Canidryl;20 mg;tabletti;200;kpl;;Karprofeeni;;0;1;1;1;
@@ -3970,7 +3971,7 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 107366;107366;177115;Voltaren Forte;23.2 mg/g;geeli;100 g;g;;diklofenaakki;1652;1;0;1;1;
 107371;107371;116989;Valsartore Comp;160 mg / 12.5 mg;tabletti, kalvopäällysteinen;30;kpl;;valsartaani ja diureetit;0919;1;0;0;1;
 107390;107390;165726;Lipistad;20 mg;tabletti, kalvopäällysteinen;30 x 1;kpl;;atorvastatiini;1084;1;0;1;1;
-107395;107395;216658;Vaxigrip;15 mikrog HA / 0.5 ml;injektioneste, suspensio, esitäytetty ruisku;0.5 ml;annos;Injektioruisku;influenssarokote, puhdistettu antigeeni;;1;0;1;1;
+107395;107395;216658;Vaxigrip;15 mikrog HA / 0.5 ml;injektioneste, suspensio, esitäytetty ruisku;0.5 ml;annos;Injektioruisku;influenssarokote, puhdistettu antigeeni;;1;0;0;1;2026-11-16
 107407;107407;98801;Cepesedan vet.;10 mg/ml;injektioneste, liuos;5 x 20 ml;ml;;Detomidiini;;0;1;1;1;
 107414;107414;156596;Primaspan;100 mg;enterotabletti;300;kpl;;asetyylisalisyylihappo;;1;0;1;1;
 107449;107449;174704;Credelio;450 mg;purutabletti;6;kpl;;lotilaner;;0;1;1;1;
@@ -5946,6 +5947,7 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 174326;174326;4135;Spirix;50 mg;tabletti;100;kpl;;spironolaktoni;0062;1;0;1;1;
 174328;174328;34858;Sumatriptan Sandoz;50 mg;tabletti, kalvopäällysteinen;6;kpl;;sumatriptaani;0328;1;0;1;1;
 174365;174365;222008;Kaliumklorid Karo Healthcare;750 mg;depottabletti;100;kpl;;kaliumkloridi;1621;1;0;1;1;
+174412;174412;157494;ISENTRESS;100 mg;rakeet oraalisuspensiota varten;60;kpl;;raltegraviiri;;1;0;1;1;
 174433;174433;9953;Alphagan;0.2 % (2 mg/ml);silmätipat, liuos;5 ml;ml;;brimonidiini;;1;0;1;1;
 174460;174460;114071;Spironolactone Orion;50 mg;tabletti;30;kpl;;spironolaktoni;0062;1;0;0;1;2025-06-01
 174461;174461;198481;Trientine Waymade;200 mg;kapseli, kova;100;kpl;;trientiini;2472;1;0;1;1;
@@ -7473,7 +7475,7 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 400347;400347;160179;Signifor;20 mg;injektiokuiva-aine ja liuotin, suspensiota varten;20 mg + 2 ml;kpl;;pasireotidi;;1;0;1;1;
 400366;400366;4767;Coldrex;;tabletti;48;kpl;;asetyylisalisyylihappo, yhdistelmävalmisteet;;1;0;0;1;
 400508;400508;170471;Buprenorphine ratiopharm;5 mikrog/tunti;depotlaastari;4;kpl;;buprenorfiini;1711;1;0;1;1;
-400522;400522;185571;Sympagesic;500 mg/ml / 4 mg/ml;injektioneste, liuos;100 ml;ml;;Butyyliskopolamiini ja analgeetti;;0;1;1;1;
+400522;400522;185571;Sympagesic;500 mg/ml / 4 mg/ml;injektioneste, liuos;100 ml;ml;;Butyyliskopolamiini ja analgeetti;;0;1;0;1;2026-10-28
 400543;400543;220614;Alhemo;300 mg / 3 ml;injektioneste, liuos, esitäytetty kynä;3 ml;kpl;Pen;konsitsumabi;;1;0;0;1;
 400553;400553;208361;Apixaban Orion;2.5 mg;tabletti, kalvopäällysteinen;20;kpl;;apiksabaani;2401;1;0;0;1;
 400556;400556;4519;Pausanol;0.1 mg/g;emätinemulsiovoide;100 g;g;Asetin;estrioli;;1;0;0;1;2026-02-01
@@ -12612,7 +12614,7 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 584938;584938;226200;Dabigatran Etexilate Accord;150 mg;kapseli, kova;180;kpl;;dabigatraanieteksilaatti;2626;1;0;0;1;2026-06-15
 585005;585005;185299;Shingrix;;injektiokuiva-aine ja suspensio, suspensiota varten;10 x (50 mikrog + 0.5 ml);annosta;;vyöruusurokote, puhdistettu antigeeni;;1;0;1;1;
 585044;585044;218202;Elocta;3000 IU;injektiokuiva-aine ja liuotin, liuosta varten;3000 IU + 3 ml;kpl;;hyytymistekijä VIII;2877;1;0;0;1;2026-05-15
-585066;585066;183104;Xarelto;10 mg;tabletti, kalvopäällysteinen;14;kpl;;rivaroksabaani;1345;1;0;1;1;
+585066;585066;183104;Xarelto;10 mg;tabletti, kalvopäällysteinen;14;kpl;;rivaroksabaani;1345;1;0;0;1;2026-11-16
 585082;585082;199012;Lenalidomide Fresenius Kabi;5 mg;kapseli, kova;21;kpl;;lenalidomidi;;1;0;0;1;2024-11-01
 585085;155216;172313;Erelzi;50 mg;injektioneste, liuos, esitäytetty ruisku;12 x 50 mg;kpl;;etanersepti;2527;1;0;1;0;
 585168;585168;189775;Rosuvastatin/Ezetimibe ratiopharm;10 mg / 10 mg;tabletti;30;kpl;;rosuvastatiini ja etsetimibi;2812;1;0;1;1;

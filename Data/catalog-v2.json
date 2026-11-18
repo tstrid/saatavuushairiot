@@ -1,5 +1,5 @@
 {
-  "fimeaSourceDate": "2026-11-17",
+  "fimeaSourceDate": "2026-11-18",
   "records": [
     {
       "atcCode": "",
@@ -62394,7 +62394,7 @@
       "unit": "kpl"
     },
     {
-      "atcCode": "",
+      "atcCode": "influenssarokote, puhdistettu antigeeni",
       "currentNumber": "073275",
       "device": "",
       "dosageForm": "injektioneste, suspensio, esitäytetty ruisku",
@@ -62405,15 +62405,15 @@
       "isVeterinaryMedicine": false,
       "kind": "1",
       "marketRemovalDate": "",
-      "name": "ZOONOTIC INFLUENZA VACCINE SEQIRUS",
+      "name": "Zoonotic Influenza Vaccine Seqirus",
       "number": "073275",
-      "packageIdentifier": "",
-      "packageSize": "10 x 0,5 ml",
+      "packageIdentifier": "212240",
+      "packageSize": "10 x 0.5 ml",
       "prescriptionStatus": "1",
       "shortageCovered": true,
-      "strength": "7,5 mikrog HA / 0,5 ml",
+      "strength": "7.5 mikrog HA / 0.5 ml",
       "substitutionGroup": "",
-      "unit": ""
+      "unit": "annosta"
     },
     {
       "atcCode": "Karprofeeni",
@@ -88449,10 +88449,10 @@
       "identifierType": "1",
       "isCurrent": true,
       "isHumanMedicine": true,
-      "isOnMarket": true,
+      "isOnMarket": false,
       "isVeterinaryMedicine": false,
       "kind": "1",
-      "marketRemovalDate": "",
+      "marketRemovalDate": "2026-11-16",
       "name": "Vaxigrip",
       "number": "107395",
       "packageIdentifier": "216658",
@@ -132024,9 +132024,9 @@
       "unit": "kpl"
     },
     {
-      "atcCode": "",
+      "atcCode": "raltegraviiri",
       "currentNumber": "174412",
-      "device": "poikkeusluvallinen, vain sairaaloiden tilattavaksi",
+      "device": "",
       "dosageForm": "rakeet oraalisuspensiota varten",
       "identifierType": "1",
       "isCurrent": true,
@@ -132037,13 +132037,13 @@
       "marketRemovalDate": "",
       "name": "ISENTRESS",
       "number": "174412",
-      "packageIdentifier": "",
-      "packageSize": "60 kpl",
+      "packageIdentifier": "157494",
+      "packageSize": "60",
       "prescriptionStatus": "1",
       "shortageCovered": true,
       "strength": "100 mg",
       "substitutionGroup": "",
-      "unit": ""
+      "unit": "kpl"
     },
     {
       "atcCode": "brimonidiini",
@@ -165757,10 +165757,10 @@
       "identifierType": "1",
       "isCurrent": true,
       "isHumanMedicine": false,
-      "isOnMarket": true,
+      "isOnMarket": false,
       "isVeterinaryMedicine": true,
       "kind": "medicine",
-      "marketRemovalDate": "",
+      "marketRemovalDate": "2026-10-28",
       "name": "Sympagesic",
       "number": "400522",
       "packageIdentifier": "185571",
@@ -279145,10 +279145,10 @@
       "identifierType": "1",
       "isCurrent": true,
       "isHumanMedicine": true,
-      "isOnMarket": true,
+      "isOnMarket": false,
       "isVeterinaryMedicine": false,
       "kind": "1",
-      "marketRemovalDate": "",
+      "marketRemovalDate": "2026-11-16",
       "name": "Xarelto",
       "number": "585066",
       "packageIdentifier": "183104",
