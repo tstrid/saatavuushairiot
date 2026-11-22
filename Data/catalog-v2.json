@@ -1,5 +1,5 @@
 {
-  "fimeaSourceDate": "2026-11-21",
+  "fimeaSourceDate": "2026-11-22",
   "records": [
     {
       "atcCode": "",
@@ -153481,7 +153481,7 @@
       "identifierType": "1",
       "isCurrent": true,
       "isHumanMedicine": true,
-      "isOnMarket": false,
+      "isOnMarket": true,
       "isVeterinaryMedicine": false,
       "kind": "medicine",
       "marketRemovalDate": "",
@@ -168199,7 +168199,7 @@
       "identifierType": "1",
       "isCurrent": true,
       "isHumanMedicine": true,
-      "isOnMarket": false,
+      "isOnMarket": true,
       "isVeterinaryMedicine": false,
       "kind": "medicine",
       "marketRemovalDate": "",

@@ -6918,7 +6918,7 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 377528;377528;157736;Nematel vet;439 mg/g;oraalipasta;30.33 g;g;;Pyranteeli;;0;1;1;1;
 377577;377577;173500;Cyclogest;400 mg;emätinpuikko;15;kpl;;progesteroni;;1;0;1;1;
 377597;377597;202931;REKAMBYS;900 mg;injektioneste, depotsuspensio;3 ml;ml;;rilpiviriini;2585;1;0;1;1;
-377608;377608;206386;Sislaf;5 mg;tabletti, kalvopäällysteinen;60;kpl;;apiksabaani;2402;1;0;0;1;
+377608;377608;206386;Sislaf;5 mg;tabletti, kalvopäällysteinen;60;kpl;;apiksabaani;2402;1;0;1;1;
 377800;377800;198563;Rivaroxaban Orion;2.5 mg;tabletti, kalvopäällysteinen;196;kpl;;rivaroksabaani;2404;1;0;1;1;
 377826;377826;194446;Deferasirox Accord;90 mg;tabletti, kalvopäällysteinen;90 x 1;kpl;;deferasiroksi;2277;1;0;1;1;
 377897;377897;212081;Azelastine/Fluticasone Advanz Pharma;125 mikrog + 50 mikrog / annos;nenäsumute, suspensio;120 annosta (23 g);annosta;;flutikasoni, yhdistelmävalmisteet;2751;1;0;1;1;
@@ -7584,7 +7584,7 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 403184;403184;226592;Nasolin;1 mg/ml;nenäsumute, liuos;10 ml;ml;Nenäkappale;ksylometatsoliini;;1;0;1;1;
 403190;403190;165082;Hydroxyzine Orifarm;25 mg;tabletti, kalvopäällysteinen;100;kpl;;hydroksitsiini;0488;1;0;1;1;
 403194;403194;206809;ORSERDU;345 mg;tabletti, kalvopäällysteinen;28 (4x7);kpl;;elasestrantti;;1;0;1;1;
-403211;403211;206372;Sislaf;2.5 mg;tabletti, kalvopäällysteinen;60;kpl;;apiksabaani;2401;1;0;0;1;
+403211;403211;206372;Sislaf;2.5 mg;tabletti, kalvopäällysteinen;60;kpl;;apiksabaani;2401;1;0;1;1;
 403363;403363;173647;Proposure;10 mg/ml;injektioneste, emulsio;5 x 20 ml;ml;;Propofoli;;0;1;1;1;
 403377;403377;161644;Upcard;0.75 mg;tabletti;30;kpl;;Torasemidi;;0;1;1;1;
 403394;421596;4349;Estrumat vet.;250 mikrog/ml;injektioneste, liuos;10 ml;ml;;Kloprostenoli;;0;1;1;0;
