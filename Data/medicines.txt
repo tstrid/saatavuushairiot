@@ -2718,7 +2718,7 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 070928;070928;176763;Atrovent Nasal;21 mikrog/annos;nenäsumute, liuos;180 annosta;annosta;;ipratropiumbromidi;1390;1;0;1;1;
 070947;070947;106276;Paclitaxel Fresenius Kabi;6 mg/ml;infuusiokonsentraatti, liuosta varten;50 ml;ml;;paklitakseli;1791;1;0;1;1;
 070976;070976;204161;Dabigatran etexilate Teva;150 mg;kapseli, kova;180;kpl;;dabigatraanieteksilaatti;2626;1;0;1;1;
-070980;070980;194268;Comtan;200 mg;tabletti, kalvopäällysteinen;100;kpl;;entakaponi;1073;1;0;0;1;
+070980;070980;194268;Comtan;200 mg;tabletti, kalvopäällysteinen;100;kpl;;entakaponi;1073;1;0;1;1;
 071072;071072;62392;Clindamycin MIP;300 mg;tabletti, kalvopäällysteinen;16;kpl;;klindamysiini;0233;1;0;1;1;
 071076;071076;2780;Selevitan vet.;30 mg/g + 0.6 mg/g;rakeet;1250 g;g;;Seleeni, yhdistelmävalmisteet;;0;1;1;1;
 071082;071082;194599;Efmody;10 mg;säädellysti vapauttava kapseli, kova;50;kpl;;hydrokortisoni;;1;0;1;1;
@@ -4848,7 +4848,7 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 137789;137789;200254;Rivaroxaban Stada;20 mg;tabletti, kalvopäällysteinen;100;kpl;;rivaroksabaani;2406;1;0;1;1;
 137797;137797;172799;Afstyla;2500 IU;injektiokuiva-aine ja liuotin, liuosta varten;2500 IU + 5 ml;kpl;;hyytymistekijä VIII;;1;0;1;1;
 137829;137829;213211;Aforbe;200 / 6 mikrog /annos;inhalaatiosumute, liuos;120 annosta;annosta;Inhalaattori;formoteroli ja beklometasoni;2771;1;0;1;1;
-137835;137835;193270;Apixaban Stada;5 mg;tabletti, kalvopäällysteinen;60;kpl;;apiksabaani;2402;1;0;0;1;
+137835;137835;193270;Apixaban Stada;5 mg;tabletti, kalvopäällysteinen;60;kpl;;apiksabaani;2402;1;0;1;1;
 137873;137873;202198;Dexametason Abcur;4 mg;tabletti;100;kpl;;deksametasoni;;1;0;0;1;
 137913;137913;202357;Spevigo;450 mg;infuusiokonsentraatti, liuosta varten;2 x 7.5 ml;kpl;;spesolimabi;;1;0;1;1;
 137914;137914;136660;Paramax Forte;1000 mg;tabletti;15;kpl;;parasetamoli;1005;1;0;1;1;
@@ -5795,7 +5795,7 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 168568;168568;86954;Losatrix;100 mg;tabletti, kalvopäällysteinen;30;kpl;;losartaani;0671;1;0;1;1;
 168582;168582;172758;Rosuvastatin Krka;15 mg;tabletti, kalvopäällysteinen;28;kpl;;rosuvastatiini;1925;1;0;0;1;
 168611;168611;169952;Cuvitru;200 mg/ml;injektioneste, liuos;40 ml;ml;;ihmisen normaali immunoglobuliini ekstravaskulaariseen käyttöön;;1;0;1;1;
-168744;168744;193275;Apixaban Stada;2.5 mg;tabletti, kalvopäällysteinen;20;kpl;;apiksabaani;2401;1;0;0;1;
+168744;168744;193275;Apixaban Stada;2.5 mg;tabletti, kalvopäällysteinen;20;kpl;;apiksabaani;2401;1;0;1;1;
 168749;168749;95830;HYCAMTIN;1 mg;kapseli, kova;10;kpl;;topotekaani;1376;1;0;1;1;
 168806;168806;164662;Duloxetin Stada;40 mg;enterokapseli, kova;56;kpl;;duloksetiini;1627;1;0;1;1;
 168824;168824;189812;Rivaroxaban ratiopharm;2.5 mg;tabletti, kalvopäällysteinen;196 x 1;kpl;;rivaroksabaani;2404;1;0;1;1;
@@ -7449,7 +7449,7 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 398167;191987;12474;Porcilis Ery vet;;injektioneste, suspensio;50 ml;ml;;Erysipelothrix rokote;;0;1;1;0;
 398178;398178;3517;Finrexin Sitruuna;350 mg / 30 mg / 300 mg;jauhe;20 x 5 g;annos;;asetyylisalisyylihappo, yhdistelmävalmisteet;3026;1;0;1;1;
 398222;398222;11786;Maxalt Rapitab;10 mg;tabletti, kylmäkuivattu;6;kpl;;ritsatriptaani;1132;1;0;1;1;
-398229;398229;193267;Apixaban Stada;5 mg;tabletti, kalvopäällysteinen;28;kpl;;apiksabaani;2402;1;0;0;1;
+398229;398229;193267;Apixaban Stada;5 mg;tabletti, kalvopäällysteinen;28;kpl;;apiksabaani;2402;1;0;1;1;
 398265;398265;190533;Enerzair Breezhaler;114 mikrog / 46 mikrog / 136 mikrog;inhalaatiojauhe, kapseli, kova;90 x 1;kpl;Inhalaatiolaite;indakateroli, glykopyrroniumbromidi ja mometasoni;2694;1;0;1;1;
 398309;398309;187655;Respreeza;5000 mg;infuusiokuiva-aine ja liuotin, liuosta varten;5000 mg + 95 ml;kpl;;alfa-1-antitrypsiini;;1;0;1;1;
 398354;398354;8432;Kefexin;100 mg/ml;rakeet oraalisuspensiota varten;30 ml;ml;;kefaleksiini;;1;0;1;1;
@@ -8020,7 +8020,7 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 418746;418746;28762;Bicavera 1.5 % Glukoosi, 1.75 Mmol/L Kalsium;;peritoneaalidialyysineste;4 x 3000 ml;ml;;Hypertoniset liuokset;;1;0;0;1;2025-01-31
 418896;418896;17476;Artelac;;silmätipat, liuos, kerta-annospakkaus;60 x 0.5 ml;ml;;keinokyyneleet ja muut luokittelemattomat valmisteet;;1;0;1;1;
 418914;418914;212106;Testosterone SUN;1000 mg / 4 ml;injektioneste, liuos;4 ml;ml;;testosteroni;2678;1;0;0;1;
-418963;418963;193279;Apixaban Stada;2.5 mg;tabletti, kalvopäällysteinen;60;kpl;;apiksabaani;2401;1;0;0;1;
+418963;418963;193279;Apixaban Stada;2.5 mg;tabletti, kalvopäällysteinen;60;kpl;;apiksabaani;2401;1;0;1;1;
 419023;419023;184619;Hydofon;50 mg/ml;injektio-/infuusioneste, liuos;5 x 1 ml;ml;;hydromorfoni;2186;1;0;1;1;
 419180;419180;180032;Ubac;;injektioneste, emulsio;5 annosta;annosta;;Inactivated bacterial vaccines (including Mycoplasma, Toxoid and Chlamydia vaccines);;0;1;1;1;
 419242;419242;2849;Etalpha;0.25 mikrog;kapseli, pehmeä;100;kpl;;alfakalsidoli;;1;0;1;1;
@@ -9474,7 +9474,7 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 469048;469048;153335;Simponi;100 mg;injektioneste, liuos, esitäytetty ruisku;100 mg;kpl;;golimumabi;3112;1;0;1;1;
 469077;469077;197249;Hemlibra;150 mg/ml;injektioneste, liuos;0.7 ml;ml;;emisitsumabi;2384;1;0;1;1;
 469121;175464;134863;Mommox;50 mikrog/annos;nenäsumute, suspensio;140 annosta;annosta;;mometasoni;1382;1;0;1;0;
-469131;469131;193271;Apixaban Stada;5 mg;tabletti, kalvopäällysteinen;100;kpl;;apiksabaani;2402;1;0;0;1;
+469131;469131;193271;Apixaban Stada;5 mg;tabletti, kalvopäällysteinen;100;kpl;;apiksabaani;2402;1;0;1;1;
 469146;469146;188396;Ticagrelor Stada;90 mg;tabletti, kalvopäällysteinen;168 x 1;kpl;;tikagrelori;2016;1;0;1;1;
 469174;551842;127584;Letrozole Sandoz;2.5 mg;tabletti, kalvopäällysteinen;100;kpl;;letrotsoli;1117;1;0;1;0;
 469291;469291;127905;Escitalopram Orion;10 mg;tabletti, kalvopäällysteinen;98;kpl;;essitalopraami;1125;1;0;1;1;
@@ -11236,7 +11236,7 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 532218;532218;235;Vi-Siblin;;rakeet;250 g;g;Lääkemitta;ispaghula (psylliumin siemenet);3126;1;0;1;1;
 532226;532226;236;Vi-Siblin;;rakeet;500 g;g;Lääkemitta;ispaghula (psylliumin siemenet);3126;1;0;1;1;
 532234;532234;4397;Vi-Siblin S;;rakeet;250 g;g;Lääkemitta;ispaghula (psylliumin siemenet);;1;0;1;1;
-532239;532239;193281;Apixaban Stada;2.5 mg;tabletti, kalvopäällysteinen;168;kpl;;apiksabaani;2401;1;0;0;1;
+532239;532239;193281;Apixaban Stada;2.5 mg;tabletti, kalvopäällysteinen;168;kpl;;apiksabaani;2401;1;0;1;1;
 532242;532242;4398;Vi-Siblin S;;rakeet;450 g;g;Lääkemitta;ispaghula (psylliumin siemenet);;1;0;1;1;
 532259;532259;10818;Doxitin;100 mg;tabletti;10;kpl;;doksisykliini;0188;1;0;1;1;
 532261;532261;181787;Betaklav;500 mg / 125 mg;tabletti, kalvopäällysteinen;30;kpl;;amoksisilliini ja beetalaktamaasin estäjä;0204;1;0;1;1;
@@ -11415,7 +11415,7 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 537953;537953;123508;Glaukostad;20 mg/ml + 5 mg/ml;silmätipat, liuos;5 ml;ml;;timololi, yhdistelmävalmisteet;1118;1;0;1;1;
 537978;537978;165581;Levodopa/Carbidopa/Entacapone Accord;125 mg / 31.25 mg / 200 mg;tabletti, kalvopäällysteinen;100;kpl;;levodopa, dekarboksylaasin estäjä ja COMT-estäjä;;1;0;0;1;
 537997;537997;206676;Zopiclone Grindeks;5 mg;tabletti, kalvopäällysteinen;30;kpl;;tsopikloni;;1;0;1;1;
-538003;538003;193272;Apixaban Stada;5 mg;tabletti, kalvopäällysteinen;168;kpl;;apiksabaani;2402;1;0;0;1;
+538003;538003;193272;Apixaban Stada;5 mg;tabletti, kalvopäällysteinen;168;kpl;;apiksabaani;2402;1;0;1;1;
 538035;538035;134353;Candesartan Krka;16 mg;tabletti;28;kpl;;kandesartaani;1184;1;0;1;1;
 538080;538080;180821;Vaborem;1 g / 1 g;kuiva-aine välikonsentraatiksi infuusionestettä varten, liuos;6;kpl;;meropeneemi ja vaborbaktaami;;1;0;1;1;
 538084;538084;37806;Nobivac Pi;;kuiva-aine, kylmäkuivattu, ja liuotin, injektionestettä varten, suspensio;5 annosta (I+II);annos;;Koiran parainfluenssavirus -rokote;;0;1;1;1;
