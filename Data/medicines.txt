@@ -11348,7 +11348,7 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 535868;535868;208629;Kaftrio;60 mg / 40 mg / 80 mg;rakeet, annospussi;28 (4 x 7);kpl;;ivakaftori, tetsakaftori ja eleksakaftori;;1;0;1;1;
 535888;535888;179071;Procren Depot PDS;30 mg;injektiokuiva-aine ja liuotin suspensiota varten, esitäytetty ruisku;30 mg + 1 ml;kpl;;leuproreliini;1947;1;0;0;1;2026-11-15
 535893;535893;118550;Olanzapin Ratiopharm;10 mg;tabletti;98;kpl;;olantsapiini;0702;1;0;1;1;
-535919;535919;227410;Yesintek;45 mg;injektioneste, liuos, esitäytetty kynä;0.5 ml;kpl;;ustekinumabi;3019;1;0;0;1;
+535919;535919;227410;Yesintek;45 mg;injektioneste, liuos, esitäytetty kynä;45 mg;kpl;;ustekinumabi;3019;1;0;0;1;
 535927;535927;221400;Kerendia;40 mg;tabletti, kalvopäällysteinen;28;kpl;;finerenoni;;1;0;1;1;
 535936;535936;219851;Lynkuet;60 mg;kapseli, pehmeä;60;kpl;;elintsanetantti;;1;0;1;1;
 535970;535970;191822;Rivaroxaban Accord;2.5 mg;tabletti, kalvopäällysteinen;196;kpl;;rivaroksabaani;2404;1;0;1;1;
@@ -12926,7 +12926,7 @@ VNRNRO;NYKYINEN_VNRNRO;PAKKAUSTUNNUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;PAKKAUSKOK
 593379;593379;139643;Pioglitazone Accord;30 mg;tabletti;98;kpl;;pioglitatsoni;0040;1;0;1;1;
 593419;593419;187654;Respreeza;4000 mg;infuusiokuiva-aine ja liuotin, liuosta varten;4000 mg + 76 ml;kpl;;alfa-1-antitrypsiini;;1;0;1;1;
 593458;593458;198468;Thiotepa Fresenius Kabi;100 mg;kuiva-aine välikonsentraatiksi infuusionestettä varten, liuos;100 mg;kpl;;tiotepa;2230;1;0;1;1;
-593516;593516;196150;Foscarnet Tillomed;24 mg/ml;infuusioneste, liuos;250;ml;;foskarneetti;2706;1;0;0;1;2024-09-01
+593516;593516;196150;Foscarnet Tillomed;24 mg/ml;infuusioneste, liuos;250 ml;ml;;foskarneetti;2706;1;0;0;1;2024-09-01
 593521;593521;191854;Sitagliptin STADA;25 mg;tabletti, kalvopäällysteinen;30;kpl;;sitagliptiini;0886;1;0;1;1;
 593527;593527;171962;Etoricoxib Krka;90 mg;tabletti, kalvopäällysteinen;30;kpl;;etorikoksibi;0308;1;0;1;1;
 593547;593547;206542;Apretude;30 mg;tabletti, kalvopäällysteinen;30;kpl;;kabotegraviiri;2586;1;0;1;1;
